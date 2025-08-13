@@ -20,6 +20,8 @@ Documentar e avaliar as diferenças de desempenho entre robôs (Simulados e reai
 - Liste as tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC).
 - Apresente o contexto de uso dessa aplicação.
 
+  sadfhsjkad
+
 ## Publico Alvo
 
 - Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
