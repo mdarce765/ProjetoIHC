@@ -9,7 +9,8 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Ide
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+Apresente uma breve descrição da sua aplicação ou produto.  
+Documentar e avaliar as diferenças de desempenho entre robôs (Simulados e reais) com e sem o uso de conteinerização e uma ferramenta para desenvolver arenas baseadas na arena da sala k404 da FEI com maior facilidade.
 
 ## Introdução
  
