@@ -13,14 +13,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 Documentar e avaliar as diferenças de desempenho entre robôs (Simulados e reais) com e sem o uso de conteinerização e uma ferramenta para desenvolver arenas baseadas na arena da sala k404 da FEI com maior facilidade.
 
 ## Introdução
- 
-- Apresente o propósito do profuto ou serviço e quais são os principais benefícios que ele oferece aos usuários.
-- Identifique os problemas ou necessidades que o profuto ou serviço resolve ou satisfaz.
-- Liste as características e funcionalidades do seu profuto ou serviço de forma detalhada.
-- Liste as tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC).
-- Apresente o contexto de uso dessa aplicação.
-
-  O projeto Consiste de documentar e avaliar o desempenho que um robô (será utilizado um TurtleBot3 Burger para este projeto), 
+A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e implementação, disponibilizando certa camada de isolamento entre componentes de um projeto, assegurando que estes não irão conflitar, seja por funções internas ou dependências de versões diferentes sendo utilizadas. No campo da robótica, conteinerização é vista como uma técnica para facilitar o desenvolvimento, portabilidade e consistência em projetos de robótica, mas não foram feitas pesquisas detalhando a integração destes projetos com Docker e seus efeitos no desempenho de um robô físico. A proposta do projeto é justamente esta: integrar ROS 2 e Docker, explicando os passos utilizados e comparando o desempenho com e sem conteinerização, sendo dividido em 2 partes: em um simulador Gazebo, e em um robô Turtlebot real. Será desenvolvida também uma interface que permite ao usuário posicionar obstáculos em uma arena baseada na arena da k404 que está presente no campus da FEI. 
 
 ## Publico Alvo
 
