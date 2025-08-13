@@ -16,11 +16,7 @@ Documentar e avaliar as diferenças de desempenho entre robôs (Simulados e reai
 A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e implementação, disponibilizando certa camada de isolamento entre componentes de um projeto, assegurando que estes não irão conflitar, seja por funções internas ou dependências de versões diferentes sendo utilizadas. No campo da robótica, conteinerização é vista como uma técnica para facilitar o desenvolvimento, portabilidade e consistência em projetos de robótica, mas não foram feitas pesquisas detalhando a integração destes projetos com Docker e seus efeitos no desempenho de um robô físico. A proposta do projeto é justamente esta: integrar ROS 2 e Docker, explicando os passos utilizados e comparando o desempenho com e sem conteinerização, sendo dividido em 2 partes: em um simulador Gazebo, e em um robô Turtlebot real. Será desenvolvida também uma interface que permite ao usuário posicionar obstáculos em uma arena baseada na arena da k404 que está presente no campus da FEI. 
 
 ## Publico Alvo
-
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
-
-  Pessoas que trabalham com robôs e pessoas que querem montar arenas rapidamente. Este público alvo deseja realizar testes de maneira rápida e quanto mais rápido, mais eles aproveitam, facilitando o processo de desenvolver os mapas, mais rápido os poderão testar os robôs.
+Pessoas que trabalham com robôs e pessoas que querem montar arenas rapidamente. Este público alvo deseja realizar testes de maneira rápida e quanto mais rápido, mais eles aproveitam, facilitando o processo de desenvolver os mapas, mais rápido os poderão testar os robôs.
 
 ## Análise de concorrência
 
