@@ -20,6 +20,8 @@ A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e imp
 - Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
 - Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
 
+  Pessoas que trabalham com robôs e pessoas que querem montar arenas rapidamente. Este público alvo deseja realizar testes de maneira rápida e quanto mais rápido, mais eles aproveitam, facilitando o processo de desenvolver os mapas, mais rápido os poderão testar os robôs.
+
 ## Análise de concorrência
 
 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo.
