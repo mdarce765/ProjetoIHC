@@ -8,9 +8,7 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Ide
 - Rodrigo Simões Ruy
 
 ## Resumo
-
-Apresente uma breve descrição da sua aplicação ou produto.  
-Documentar e avaliar as diferenças de desempenho entre robôs (Simulados e reais) com e sem o uso de conteinerização e uma ferramenta para desenvolver arenas baseadas na arena da sala k404 da FEI com maior facilidade.
+Conteinerização é uma ferramenta muito útil quando se lida com projetos que precisam de diferentes dependências ou programas que podem ter conflitos entre si, que precisam de uma grande quantidade de configuração inicial, ou que precisam de portabilidade. Isso a torna perfeita para projetos de robótica, mas os impactos do seu uso e suas peculiaridades em situações reais ainda não estão documentadas, o que é justamente oque este projeto propõe fazer. Haverão 2 partes para este projeto, a primeira parte será uma avaliação do desempenho em uma simulação utilizando Gazebo, e a segunda parte será a avaliação do desempenho de um turtlebot real.  
 
 ## Introdução
 A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e implementação, disponibilizando certa camada de isolamento entre componentes de um projeto, assegurando que estes não irão conflitar, seja por funções internas ou dependências de versões diferentes sendo utilizadas. No campo da robótica, conteinerização é vista como uma técnica para facilitar o desenvolvimento, portabilidade e consistência em projetos de robótica, mas não foram feitas pesquisas detalhando a integração destes projetos com Docker e seus efeitos no desempenho de um robô físico. A proposta do projeto é justamente esta: integrar ROS 2 e Docker, explicando os passos utilizados e comparando o desempenho com e sem conteinerização, sendo dividido em 2 partes: em um simulador Gazebo, e em um robô Turtlebot real. Será desenvolvida também uma interface que permite ao usuário posicionar obstáculos em uma arena baseada na arena da k404 que está presente no campus da FEI. 
