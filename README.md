@@ -18,15 +18,17 @@ Pessoas que trabalham com robôs e pessoas que querem montar arenas rapidamente.
 
 ## Análise de concorrência
 
-1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo.
-2. Colete informações sobre os concorrentes selecionados.
-3. Analise as características e funcionalidades dos concorrentes.
-4. Avalie a experiência do usuário (UX).
+1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo. X
+2. Colete informações sobre os concorrentes selecionados. X
+3. Analise as características e funcionalidades dos concorrentes. X
+4. Avalie a experiência do usuário (UX). REVISAR
 5. Examine os preços e modelos de negócio.
 6. Pesquisa de satisfação do cliente e opiniões.
 7. Identifique padrões e tendências no mercado.
 8. Elabore relatórios e sumarize os resultados.
 9. Extraia pontos positivos e faça recomendações.
+
+    Alguns concorrentes que encontramos, foram o Gazebo Simulator e o Blender, ambos são utilizados para se desenvolver mapas/Arenas para robôs. O Simulador Gazebo que também utilizaremos, pode ser usado para se desenvolver arenas, mas como não é o foco do software o desenvolvimento, o mesmo é muito limitado em diversos aspectos da criação, então é mais utilizado para simular algo já criado. O Blender é uma software voltado para a criação de modelos 3d, as vezes utilizado para a criação de arenas mais complexas, mas o mesmo é voltado para a criação e não simulação então os usuários exportam os modelos para utilizar em um simulador. Ambos os softwares possuem apreciação pelo público-alvo, mas por serem dois softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar no outro software. Ambos os softwares são gratuitos, com amplas comunidades e diversas versões que podem ser utilizadas pelos usuários...
 
 ### Personas
 
