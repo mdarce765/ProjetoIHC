@@ -14,10 +14,11 @@ Conteinerização é uma ferramenta muito útil quando se lida com projetos que 
 <!--Introdução: falta funcionalidades, tecnologias, contexto de uso-->
 A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e implementação, disponibilizando certa camada de isolamento entre componentes de um projeto, assegurando que estes não irão conflitar, seja por funções internas ou dependências de versões diferentes sendo utilizadas. No campo da robótica, conteinerização é vista como uma técnica para facilitar o desenvolvimento, portabilidade e consistência em projetos de robótica, mas não foram feitas pesquisas detalhando a integração destes projetos com Docker e seus efeitos no desempenho de um robô físico. A proposta do projeto é justamente esta: integrar ROS 2 e Docker, explicando os passos utilizados e comparando o desempenho com e sem conteinerização, sendo dividido em 2 partes: em um simulador Gazebo, e em um robô Turtlebot real. Será desenvolvida também uma interface gráfica interativa, utilizando a biblioteca pygames do python, que permite ao usuário posicionar obstáculos em uma arena simulada baseada na arena da k4-04 que está presente no campus da FEI. 
 
-Simulador Gazebo: Software de simulação, será utilizado para realizar os testes com o robô simulado.  
-ROS2: software para desenvolver aplicações para robôs, será utilizado no turtlebot3 burger para realizar os testes.  
-Docker: Plataforma que utiliza a conteinerização, será utilizada nos testes para o robô real/simulado com docker.  
-Pygames: Biblioteca em python para desenvolvimento de jogos, será utilizada para desenvolver a interface gráfica interativa para o usuário.  
+### Tecnologias
+- Simulador Gazebo: Software de simulação, será utilizado para realizar os testes com o robô simulado.  
+- ROS2: software para desenvolver aplicações para robôs, será utilizado no turtlebot3 burger para realizar os testes.  
+- Docker: Plataforma que utiliza a conteinerização, será utilizada nos testes para o robô real/simulado com docker.  
+- Pygames: Biblioteca em python para desenvolvimento de jogos, será utilizada para desenvolver a interface gráfica interativa para o usuário.  
 
 ## Publico Alvo
 <!--Publico-alvo: falta suas caracteristicas-->
@@ -38,7 +39,16 @@ Pessoas que trabalham com robôs e pessoas que desejam desenvolver arenas simula
 Analise de concorrência: falta experiencia de utilização da ferramenta ou serviço, preços, feedbacks dos usuários, tendencias do mercado, pontos positivos e negativos
 -->
 
-Alguns concorrentes que encontramos foram o Gazebo Simulator <!--Autodestk(Fusion 360, Solidworks)-->e o Blender, ambos são utilizados para se desenvolver mapas/Arenas para robôs. O Simulador Gazebo, que também utilizaremos, pode ser usado para se desenvolver arenas, mas como não é o foco do software o desenvolvimento, o mesmo é muito limitado em diversos aspectos da criação, então é mais utilizado para simular algo já criado. O Blender é um software voltado para a criação de modelos 3d, às vezes utilizado para a criação de arenas mais complexas, mas o mesmo é voltado para a criação e não simulação, então os usuários exportam os modelos para utilizar em um simulador. Ambos os softwares possuem apreciação pelo público-alvo, mas por serem dois softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar no outro software. Ambos os softwares são gratuitos, com amplas comunidades e diversas versões que podem ser utilizadas pelos usuários. O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações, enquanto o do Simulador Gazebo ... . Observando estas duas concorrências, podemos observar que são bastante apreciadas por serem gratuitas, possuírem comunidades ativas, suporte para mais de uma plataforma e entre outros. Ambos os softwares são bons para o que cumprem, mas o gazebo poderia ter alguma forma de desenvolvimento que pudesse ser mais sofisticada para o desenvolvimento de arenas mais complexas com mais facilidade.
+Alguns concorrentes que encontramos foram o Autodestk Fusion, Blender e o Gazebo Simulator. Estes softwares podem ser utilizados para se desenvolver mapas/Arenas para robôs. 
+O Autodesk Fusion é um software com o foco na área da modelagem 3D, CAD, CAM, CAE e PCB, pode ser utilizado para importar modelos que já possuem CADs prontos e com isso importar os mesmos para serem utilizados no Gazebo com a extensão ".dae".
+O Blender também é um software voltado para a criação de modelos 3d, podendo ser utilizado para a criação de arenas mais complexas, mas o mesmo é voltado para a criação e não simulação, então os usuários exportam os modelos para utilizar em um simulador. 
+O Simulador Gazebo, que será utilizado no projeto, pode ser usado para se desenvolver arenas, mas como não é o foco do software o desenvolvimento, o mesmo é muito limitado em diversos aspectos da criação, então é mais utilizado para simular algo já criado ou desenvolver arenas mais simples. 
+Estes softwares possuem apreciação pelo público-alvo, mas por serem softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar em outro software (Autodesk Fusion/Blender → Gazebo). 
+Os softwares são gratuitos, com exceção do Autodesk fusion que possui uma versão gratuita e versões pagas, com amplas comunidades e diversas versões que podem ser utilizadas pelos usuários. 
+O modelo de negócio do Autodesk Fusion é baseado nos diversos tipos de softwares distribuídos pela Autodesk. Mesmo possuindo avaliações gratuitas e até versões gratuitas para uso pessoal, as outras versões dos softwares são pagas por meio de assinaturas mensais ou anuais.
+O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações. O Gazebo Simulator é um software gratuito e de código aberto. 
+Observando estas concorrências, podemos observar que são bastante apreciadas por possuírem comunidades ativas, suporte para mais de uma plataforma, liberdade criativa para desenvolvimento, entre outros. 
+Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma forma de desenvolvimento que pudesse ser mais sofisticada para o desenvolvimento de arenas mais complexas com mais facilidade. O Blender não é um simulador e o autodesk fusion é melhor para importação de CADs prontos.
       
 ### Personas
 
@@ -48,7 +58,7 @@ Alguns concorrentes que encontramos foram o Gazebo Simulator <!--Autodestk(Fusio
   - Persona primaira ...
   <details>
         <summary>Personas primárias</summary>
-        * Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"  
+        1. Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"  
         Carlos Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Carlos realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
   </details>
   - Persona secundária ...
