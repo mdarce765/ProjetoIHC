@@ -14,10 +14,10 @@ Conteinerização é uma ferramenta muito útil quando se lida com projetos que 
 <!--Introdução: falta funcionalidades, tecnologias, contexto de uso-->
 A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e implementação, disponibilizando certa camada de isolamento entre componentes de um projeto, assegurando que estes não irão conflitar, seja por funções internas ou dependências de versões diferentes sendo utilizadas. No campo da robótica, conteinerização é vista como uma técnica para facilitar o desenvolvimento, portabilidade e consistência em projetos de robótica, mas não foram feitas pesquisas detalhando a integração destes projetos com Docker e seus efeitos no desempenho de um robô físico. A proposta do projeto é justamente esta: integrar ROS 2 e Docker, explicando os passos utilizados e comparando o desempenho com e sem conteinerização, sendo dividido em 2 partes: em um simulador Gazebo, e em um robô Turtlebot real. Será desenvolvida também uma interface gráfica interativa, utilizando a biblioteca pygames do python, que permite ao usuário posicionar obstáculos em uma arena simulada baseada na arena da k4-04 que está presente no campus da FEI. 
 
-Simulador Gazebo: Software de simulação, será utilizado para realizar os testes com o robô simulado.
-ROS2: software para desenvolver aplicações para robôs, será utilizado no turtlebot3 burger para realizar os testes.
-Docker: Plataforma que utiliza a conteinerização, será utilizada nos testes para o robô real/simulado com docker.
-Pygames: Biblioteca em python para desenvolvimento de jogos, será utilizada para desenvolver a interface gráfica interativa para o usuário.
+Simulador Gazebo: Software de simulação, será utilizado para realizar os testes com o robô simulado.  
+ROS2: software para desenvolver aplicações para robôs, será utilizado no turtlebot3 burger para realizar os testes.  
+Docker: Plataforma que utiliza a conteinerização, será utilizada nos testes para o robô real/simulado com docker.  
+Pygames: Biblioteca em python para desenvolvimento de jogos, será utilizada para desenvolver a interface gráfica interativa para o usuário.  
 
 ## Publico Alvo
 <!--Publico-alvo: falta suas caracteristicas-->
@@ -46,6 +46,11 @@ Alguns concorrentes que encontramos foram o Gazebo Simulator <!--Autodestk(Fusio
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
   - Persona primaira ...
+  <details>
+        <summary>Personas primárias</summary>
+        * Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"  
+        Carlos Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Carlos realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+  </details>
   - Persona secundária ...
   - Outras personas ...
 
