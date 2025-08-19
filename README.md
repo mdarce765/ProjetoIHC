@@ -55,13 +55,17 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
-  - Persona primaira ...
   <details>
         <summary>Personas primárias</summary>
         1. Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"  
         Carlos Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Carlos realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+        2. 
+        3.
   </details>
-  - Persona secundária ...
+  <details>
+        <summary>Persona secundária</summary>
+        1. 
+  </details>
   - Outras personas ...
 
 ### Mapa de empatia
