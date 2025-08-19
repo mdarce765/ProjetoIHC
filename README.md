@@ -39,32 +39,35 @@ Pessoas que trabalham com robôs e pessoas que desejam desenvolver arenas simula
 Analise de concorrência: falta experiencia de utilização da ferramenta ou serviço, preços, feedbacks dos usuários, tendencias do mercado, pontos positivos e negativos
 -->
 
-Alguns concorrentes que encontramos foram o Autodestk Fusion, Blender e o Gazebo Simulator. Estes softwares podem ser utilizados para se desenvolver mapas/Arenas para robôs. 
-O Autodesk Fusion é um software com o foco na área da modelagem 3D, CAD, CAM, CAE e PCB, pode ser utilizado para importar modelos que já possuem CADs prontos e com isso importar os mesmos para serem utilizados no Gazebo com a extensão ".dae".
-O Blender também é um software voltado para a criação de modelos 3d, podendo ser utilizado para a criação de arenas mais complexas, mas o mesmo é voltado para a criação e não simulação, então os usuários exportam os modelos para utilizar em um simulador. 
-O Simulador Gazebo, que será utilizado no projeto, pode ser usado para se desenvolver arenas, mas como não é o foco do software o desenvolvimento, o mesmo é muito limitado em diversos aspectos da criação, então é mais utilizado para simular algo já criado ou desenvolver arenas mais simples. 
-Estes softwares possuem apreciação pelo público-alvo, mas por serem softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar em outro software (Autodesk Fusion/Blender → Gazebo). 
+Alguns concorrentes que encontramos foram o Autodestk Fusion, Blender e o Gazebo Simulator. Estes softwares podem ser utilizados para se desenvolver mapas/Arenas para robôs.  
+O Autodesk Fusion é um software com o foco na área da modelagem 3D, CAD, CAM, CAE e PCB, pode ser utilizado para importar modelos que já possuem CADs prontos e com isso importar os mesmos para serem utilizados no Gazebo com a extensão ".dae".  
+O Blender também é um software voltado para a criação de modelos 3d, podendo ser utilizado para a criação de arenas mais complexas, mas o mesmo é voltado para a criação e não simulação, então os usuários exportam os modelos para utilizar em um simulador.  
+O Simulador Gazebo, que será utilizado no projeto, pode ser usado para se desenvolver arenas, mas como não é o foco do software o desenvolvimento, o mesmo é muito limitado em diversos aspectos da criação, então é mais utilizado para simular algo já criado ou desenvolver arenas mais simples.  
+Estes softwares possuem apreciação pelo público-alvo, mas por serem softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar em outro software (Autodesk Fusion/Blender → Gazebo).  
 Os softwares são gratuitos, com exceção do Autodesk fusion que possui uma versão gratuita e versões pagas, com amplas comunidades e diversas versões que podem ser utilizadas pelos usuários. 
-O modelo de negócio do Autodesk Fusion é baseado nos diversos tipos de softwares distribuídos pela Autodesk. Mesmo possuindo avaliações gratuitas e até versões gratuitas para uso pessoal, as outras versões dos softwares são pagas por meio de assinaturas mensais ou anuais.
-O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações. O Gazebo Simulator é um software gratuito e de código aberto. 
-Observando estas concorrências, podemos observar que são bastante apreciadas por possuírem comunidades ativas, suporte para mais de uma plataforma, liberdade criativa para desenvolvimento, entre outros. 
-Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma forma de desenvolvimento que pudesse ser mais sofisticada para o desenvolvimento de arenas mais complexas com mais facilidade. O Blender não é um simulador e o autodesk fusion é melhor para importação de CADs prontos.
+O modelo de negócio do Autodesk Fusion é baseado nos diversos tipos de softwares distribuídos pela Autodesk. Mesmo possuindo avaliações gratuitas e até versões gratuitas para uso pessoal, as outras versões dos softwares são pagas por meio de assinaturas mensais ou anuais.  
+O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações. O Gazebo Simulator é um software gratuito e de código aberto.  
+Observando estas concorrências, podemos observar que são bastante apreciadas por possuírem comunidades ativas, suporte para mais de uma plataforma, liberdade criativa para desenvolvimento, entre outros.  
+Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma forma de desenvolvimento que pudesse ser mais sofisticada para o desenvolvimento de arenas mais complexas com mais facilidade. O Blender não é um simulador e o autodesk fusion é melhor para importação de CADs prontos.  
       
-### Personas
+### Personas Colocar idade
 
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
   <details>
         <summary>Personas primárias</summary>
-        1. Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
-          Carlos Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Carlos realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
-        2. 
-        3.
+        1. Edson Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
+        Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+        2. Robervaldo Arantes, Aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
+        Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de um outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se prepararar para aulas futuras.
+        3. Kelly do Nascimento, Aluna realizando uma Iniciação Cientifica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
+        Kelly do Nascimento é uma aluna de engenharia mecânica mas acabou por se interessar pelas simulações por conta disso a mesma decidiu realizar uma Iniciação Cientifica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
   </details>
   <details>
         <summary>Persona secundária</summary>
-        1. 
+        1. Ayrton Fernandes, Aluno desenvolvendo seu Trabalho de conclusão de curso
+        Ayrton Fernandes, é um aluno que está no ultimo semestre e está desenvolvendo o seu TCC, o seu TCC consiste de desenvolver um robô funcional que consegue subir e descer escadas sem correr o risco de cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
   </details>
   - Outras personas ...
 
