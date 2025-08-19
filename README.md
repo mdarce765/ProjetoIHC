@@ -57,8 +57,8 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
 
   <details>
         <summary>Personas primárias</summary>
-        1. Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"  
-        Carlos Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Carlos realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+        1. Carlos Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
+          Carlos Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Carlos realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
         2. 
         3.
   </details>
