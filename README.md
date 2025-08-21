@@ -55,24 +55,17 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
-  <details>
-        <summary>Personas primárias</summary>
-- Edson Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
-        Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos. 
-
-        
-  - Robervaldo Arantes, Aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
-        Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de um outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se prepararar para aulas futuras.
+  #### Personas primárias
+  * Edson Adalberto, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
+    * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+  * Robervaldo Arantes, Aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
+    * Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de um outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se prepararar para aulas futuras.
+  * Kelly do Nascimento, Aluna realizando uma Iniciação Cientifica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
+    * Kelly do Nascimento é uma aluna de engenharia mecânica mas acabou por se interessar pelas simulações por conta disso a mesma decidiu realizar uma Iniciação Cientifica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.  
   
-  - Kelly do Nascimento, Aluna realizando uma Iniciação Cientifica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
-        Kelly do Nascimento é uma aluna de engenharia mecânica mas acabou por se interessar pelas simulações por conta disso a mesma decidiu realizar uma Iniciação Cientifica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.  
-  </details>
-  <details>
-        <summary>Persona secundária</summary>
-        - Ayrton Fernandes, Aluno desenvolvendo seu Trabalho de conclusão de curso
-        Ayrton Fernandes, é um aluno que está no ultimo semestre e está desenvolvendo o seu TCC, o seu TCC consiste de desenvolver um robô funcional que consegue subir e descer escadas sem correr o risco de cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
-  </details>
-  - Outras personas ...
+  #### Persona secundária
+  * Ayrton Fernandes, Aluno desenvolvendo seu Trabalho de conclusão de curso  
+    * Ayrton Fernandes, é um aluno que está no ultimo semestre e está desenvolvendo o seu TCC, o seu TCC consiste de desenvolver um robô funcional que consegue subir e descer escadas sem correr o risco de cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
 
 ### Mapa de empatia
 
