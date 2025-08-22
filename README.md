@@ -96,27 +96,45 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   * Ayrton Fernandes, 22 anos, Aluno desenvolvendo seu Trabalho de conclusão de curso  
     * Ayrton Fernandes, é um aluno que está no ultimo semestre e está desenvolvendo o seu TCC, o seu TCC consiste de desenvolver um robô funcional que consegue subir e descer escadas sem correr o risco de cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo. 
     -->
-* Ayrton Fernandes, 22 anos
-  - O que o usuário vê: 
-  - O que o usuário ouve: 
-  - O que o usuário diz e faz: 
-  - O que o usuário pensa e sente: 
-  - Dores: 
-  - Ganhos:
+* Ayrton Fernandes, 22 anos.
+  - O que o usuário vê: Artigos científicos. Orientador. Testes de software.
+  - O que o usuário ouve: Assiste vídeos sobre testes em robôs. Palestras sobre avanços tecnológicos.
+  - O que o usuário diz e faz: Entende e busca melhorar cada vez mais o projeto. Atualiza seu robô com base na anatomia humana.
+  - O que o usuário pensa e sente: Um robô que consegue subir e descer escadas sem cair será um avanço tecnológico. O avanço tecnológico pode tanto auxiliar quanto prejudicar.
+  - Dores: Este projeto é muito exigente e conciliar com seus outros projetos é extramente difícil.
+  - Ganhos: Este projeto será inovador e de suma importância, podendo ajudar a muitos.
     
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
+<!-- - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto? -->
+
+  O produto possui o foco de ser utilizado por pessoas envolvidas com a instituição FEI de São Bernardo do Campo, pois a arena em que o produto foi baseada é a da sala k4-04, qualquer interessado pode utilizar o produto, mas para acessar a arena da k4-04 é necessária uma permissão da instituição para utilizar a mesma.
+  O produto deve guardar as informações relacionadas à arena e as alterações realizadas pelo usuário, como posições, ajustes, etc, para então o mesmo testar em um simulador próprio.
+  O ambiente deve estar sempre pronto para alterações do usuário, tanto quanto criar, posicionar ou deletar as paredes que funcionarão como obstáculos na simulação.
 
 ## Jornada do usuário
-
+<!--
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
 - Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
   - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina? -->
+
+  1. Usuário acessa o executável da interface.
+  2. Executável inicia a interface.
+  3. Usuário seleciona a opção de criar uma arena.
+  4. Interface mostra um mapa com botões interativos.
+  5. Usuário seleciona um botão.
+  6. Botão muda de cor.
+  7. O usuário seleciona outro botão próximo ao botão selecionado.
+  8. Interface conecta ambos os botões.
+  9. Programa escreve no arquivo a posição em que uma parede será posicionada.
+  10. Usuário seleciona finalizar.
+  11. Interface gera o arquivo.
+  12. Usuário encerra a interface.
+  13. Interface é finalizada.
 
 
 <!--
