@@ -56,16 +56,16 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
   #### Personas primárias
-  * Edson Adalberto, 35 anos, Professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
-    * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e para isso o mesmo utiliza ferramentas como Simulador Gazebo pois assim ele consegue aulas mais dinâmicas para os seus alunos.
-  * Robervaldo Arantes, 18 anos, Aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
-    * Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de um outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se prepararar para aulas futuras.
-  * Kelly do Nascimento, 25 anos, Aluna realizando uma Iniciação Cientifica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
-    * Kelly do Nascimento é uma aluna de engenharia mecânica mas acabou por se interessar pelas simulações por conta disso a mesma decidiu realizar uma Iniciação Cientifica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.  
+  * Edson Adalberto, 35 anos, professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
+    * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e, para isso, o mesmo utiliza ferramentas como Simulador Gazebo, pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+  * Robervaldo Arantes, 18 anos, aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
+    * Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se preparar para aulas futuras.
+  * Kelly do Nascimento, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
+    * Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
   
   #### Persona secundária
-  * Ayrton Fernandes, 22 anos, Aluno desenvolvendo seu Trabalho de conclusão de curso  
-    * Ayrton Fernandes, é um aluno que está no ultimo semestre e está desenvolvendo o seu TCC, o seu TCC consiste de desenvolver um robô funcional que consegue subir e descer escadas sem correr o risco de cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
+  * Ayrton Fernandes, 22 anos, aluno desenvolvendo seu Trabalho de Conclusão de Curso.  
+    * Ayrton Fernandes, é um aluno que está no último semestre e está desenvolvendo o seu TCC, o seu TCC consiste em desenvolver um robô funcional que consegue subir e descer escadas sem arriscar cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
 
 ### Mapa de empatia
 
@@ -81,8 +81,29 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
 -->
 ### Persona primária
+<!-- * Kelly do Nascimento, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
+    * Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto. -->
+* Kelly do Nascimento, 25 anos.
+  - O que o usuário vê: Alunos. Partes Mecânicas. Softwares de simulações.  
+  - O que o usuário ouve: Assiste a vídeos relacionados a análise de carros. Muito interessada em acompanhar a equipe Baja FEI no Instagram. Precisa se esforçar para entregar os laboratórios.  
+  - O que o usuário diz e faz: Utiliza roupas relacionadas ao curso de mecânica. Gosta de mexer na parte física das máquinas. 
+  - O que o usuário pensa e sente: Quanto mais se analisa um assunto, mais fácil de se trabalhar no mesmo. A mecânica é uma área tão abrangente que pode se espalhar para outras áreas.
+  - Dores: Trabalhar e estudar é cansativo e exaustivo. É cansativo analisar tantos assuntos para se acompanhar a própria área.
+  - Ganhos: Acompanhar tantos assuntos é cansativo, mas recompensador pelo entendimento. Criar um carro 100% nacional é um de seus maiores objetivos.
+    
 ### Persona Secundária
-
+<!-- 
+  * Ayrton Fernandes, 22 anos, Aluno desenvolvendo seu Trabalho de conclusão de curso  
+    * Ayrton Fernandes, é um aluno que está no ultimo semestre e está desenvolvendo o seu TCC, o seu TCC consiste de desenvolver um robô funcional que consegue subir e descer escadas sem correr o risco de cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo. 
+    -->
+* Ayrton Fernandes, 22 anos
+  - O que o usuário vê: 
+  - O que o usuário ouve: 
+  - O que o usuário diz e faz: 
+  - O que o usuário pensa e sente: 
+  - Dores: 
+  - Ganhos:
+    
 ## Contexto de uso
 
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
