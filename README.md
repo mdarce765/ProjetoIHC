@@ -125,15 +125,15 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
 
   1. Usuário acessa o executável da interface.
   2. Executável inicia a interface.
-  3. Usuário seleciona a opção de criar uma arena.(ESTÁ AMBIGUO, falar que não é criar uma arena)
-  4. Interface mostra um mapa com botões interativos.(Abranger mais, falar o que são esses botões exatamente(furos da arena))
+  3. Usuário seleciona a opção de adicionar obstáculos a uma arena vazia (Apenas o modelo da arena, sem nenhum obstáculo).
+  4. Interface mostra um mapa com botões interativos. Estes botões interativos representam os "furos" em que podem se inserir os apoios dos obstáculos da arena física.
   5. Usuário seleciona um botão.
   6. Botão muda de cor.
   7. O usuário seleciona outro botão próximo ao botão selecionado.
   8. Interface conecta ambos os botões.
   9. Programa escreve no arquivo a posição em que uma parede será posicionada.
   10. Usuário seleciona finalizar.
-  11. Interface gera o arquivo.(FALAR QUAIS ARQUIVOS SÃO GERADOS)
+  11. Interface gera um arquivo ".sdf" com o mapa finalizado e um mapa para ser utilizado pelo robô. (falar a extensão do arquivo do mapa)
   12. Usuário encerra a interface.
   13. Interface é finalizada.
 
