@@ -89,7 +89,7 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   - O que o usuário diz e faz: Utiliza roupas relacionadas ao curso de mecânica. Gosta de mexer na parte física das máquinas. 
   - O que o usuário pensa e sente: Quanto mais se analisa um assunto, mais fácil de se trabalhar no mesmo. A mecânica é uma área tão abrangente que pode se espalhar para outras áreas.
   - Dores: Trabalhar e estudar é cansativo e exaustivo. É cansativo analisar tantos assuntos para se acompanhar a própria área.
-  - Ganhos: Acompanhar tantos assuntos é cansativo, mas recompensador pelo entendimento. Criar um carro 100% nacional é um de seus maiores objetivos.
+  - Ganhos: Acompanhar tantos assuntos é cansativo, mas recompensador pelo entendimento. Criar um carro 100% nacional é um de seus maiores objetivos. MUDAR(Relacionar com o projeto)
     
 ### Persona Secundária
 <!-- 
@@ -102,7 +102,7 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   - O que o usuário diz e faz: Entende e busca melhorar cada vez mais o projeto. Atualiza seu robô com base na anatomia humana.
   - O que o usuário pensa e sente: Um robô que consegue subir e descer escadas sem cair será um avanço tecnológico. O avanço tecnológico pode tanto auxiliar quanto prejudicar.
   - Dores: Este projeto é muito exigente e conciliar com seus outros projetos é extramente difícil.
-  - Ganhos: Este projeto será inovador e de suma importância, podendo ajudar a muitos.
+  - Ganhos: Este projeto será inovador e de suma importância, podendo ajudar a muitos.MUDAR(relacionar com o projeto)
     
 ## Contexto de uso
 
@@ -114,6 +114,7 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   O produto possui o foco de ser utilizado por pessoas envolvidas com a instituição FEI de São Bernardo do Campo, pois a arena em que o produto foi baseada é a da sala k4-04, qualquer interessado pode utilizar o produto, mas para acessar a arena da k4-04 é necessária uma permissão da instituição para utilizar a mesma.
   O produto deve guardar as informações relacionadas à arena e as alterações realizadas pelo usuário, como posições, ajustes, etc, para então o mesmo testar em um simulador próprio.
   O ambiente deve estar sempre pronto para alterações do usuário, tanto quanto criar, posicionar ou deletar as paredes que funcionarão como obstáculos na simulação.
+  COMPLEMENTAR(falar sobre a sala k404, relacionar, falar como o usuário vai executar o projeto)
 
 ## Jornada do usuário
 <!--
@@ -124,15 +125,15 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
 
   1. Usuário acessa o executável da interface.
   2. Executável inicia a interface.
-  3. Usuário seleciona a opção de criar uma arena.
-  4. Interface mostra um mapa com botões interativos.
+  3. Usuário seleciona a opção de criar uma arena.(ESTÁ AMBIGUO, falar que não é criar uma arena)
+  4. Interface mostra um mapa com botões interativos.(Abranger mais, falar o que são esses botões exatamente(furos da arena))
   5. Usuário seleciona um botão.
   6. Botão muda de cor.
   7. O usuário seleciona outro botão próximo ao botão selecionado.
   8. Interface conecta ambos os botões.
   9. Programa escreve no arquivo a posição em que uma parede será posicionada.
   10. Usuário seleciona finalizar.
-  11. Interface gera o arquivo.
+  11. Interface gera o arquivo.(FALAR QUAIS ARQUIVOS SÃO GERADOS)
   12. Usuário encerra a interface.
   13. Interface é finalizada.
 
