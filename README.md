@@ -49,12 +49,13 @@ O modelo de negócio do Autodesk Fusion é baseado nos diversos tipos de softwar
 O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações. O Gazebo Simulator é um software gratuito e de código aberto.  
 Observando estas concorrências, podemos observar que são bastante apreciadas por possuírem comunidades ativas, suporte para mais de uma plataforma, liberdade criativa para desenvolvimento, entre outros.  
 Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma forma de desenvolvimento que pudesse ser mais sofisticada para o desenvolvimento de arenas mais complexas com mais facilidade. O Blender não é um simulador e o autodesk fusion é melhor para importação de CADs prontos.  
+
       
 ### Personas
-
+<!--
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
-
+-->
   #### Personas primárias
   * Edson Adalberto, 35 anos, professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
     * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e, para isso, o mesmo utiliza ferramentas como Simulador Gazebo, pois assim ele consegue aulas mais dinâmicas para os seus alunos.
@@ -147,7 +148,14 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
  -->
- 
+## Qualidade de uso
+- Usabilidade: 
+- Experiência de usuário: 
+- Acessabilidade: 
+- Comunicabilidade: 
+
+## Ambiente e contexto
+
 ## Coleta de dados
 
 ## Modelo de tarefas
