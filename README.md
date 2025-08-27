@@ -153,9 +153,11 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 ## Qualidade de uso
 - Usabilidade:
   - Sua importância é muito necessária, o intuito do projeto é o de facilitar o desenvolvimento de arenas relacionadas a arena da sala k4-04, para isso foi pensado um sistema de botões que representam as posições em que os obstáculos possam ser posicionados na arena real, pois é visado a fidelidade da arena e suas possíveis formações.
-- Experiência de usuário: 
-- Acessabilidade: 
-- Comunicabilidade: 
+- Experiência de usuário:
+  - É esperado que o usuário se sinta satisfeito ao utilizar o produto, por conta de ter um processo facilitado com relação ao desenvolvimento de arenas. 
+- Acessibilidade: 
+- Comunicabilidade:
+  - A interface principal é um mapa similar à arena presente na K4-04 com a vista de cima. O usuário reconhecerá a arena caso já tenha visto a mesma.
 
 ## Ambiente e contexto
 
