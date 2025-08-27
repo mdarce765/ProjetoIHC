@@ -150,7 +150,8 @@ Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma fo
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
  -->
 ## Qualidade de uso
-- Usabilidade: 
+- Usabilidade:
+  - Sua importância é muito necessária, o intuito do projeto é o de facilitar o desenvolvimento de arenas relacionadas a arena da sala k4-04, para isso foi pensado um sistema de botões que representam as posições em que os obstáculos possam ser posicionados na arena real, pois é visado a fidelidade da arena e suas possíveis formações.
 - Experiência de usuário: 
 - Acessabilidade: 
 - Comunicabilidade: 
