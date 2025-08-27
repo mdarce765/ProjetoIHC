@@ -41,15 +41,16 @@ Analise de concorrência: falta experiencia de utilização da ferramenta ou ser
 -->
 
 Alguns concorrentes que encontramos foram o Autodestk Fusion, Blender e o Gazebo Simulator. Estes softwares podem ser utilizados para se desenvolver mapas/Arenas para robôs.  
-O Autodesk Fusion é um software com o foco na área da modelagem 3D, CAD, CAM, CAE e PCB, pode ser utilizado para importar modelos que já possuem CADs prontos e com isso importar os mesmos para serem utilizados no Gazebo com a extensão ".dae".  
-O Blender também é um software voltado para a criação de modelos 3d, podendo ser utilizado para a criação de arenas mais complexas, mas o mesmo é voltado para a criação e não simulação, então os usuários exportam os modelos para utilizar em um simulador.  
-O Simulador Gazebo, que será utilizado no projeto, pode ser usado para se desenvolver arenas, mas como não é o foco do software o desenvolvimento, o mesmo é muito limitado em diversos aspectos da criação, então é mais utilizado para simular algo já criado ou desenvolver arenas mais simples.  
-Estes softwares possuem apreciação pelo público-alvo, mas por serem softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar em outro software (Autodesk Fusion/Blender → Gazebo).  
-Os softwares são gratuitos, com exceção do Autodesk fusion que possui uma versão gratuita e versões pagas, com amplas comunidades e diversas versões que podem ser utilizadas pelos usuários. 
-O modelo de negócio do Autodesk Fusion é baseado nos diversos tipos de softwares distribuídos pela Autodesk. Mesmo possuindo avaliações gratuitas e até versões gratuitas para uso pessoal, as outras versões dos softwares são pagas por meio de assinaturas mensais ou anuais.  
-O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações. O Gazebo Simulator é um software gratuito e de código aberto.  
+Autodesk Fusion é um software com grande foco na área de simulação de tensões de materiais e modelagem 3D, CAD, CAM, CAE e PCB, sendo utilizado em testes de novos materiais para hardware com simulações mecânicas e de movimento.  
+Blender é um software completamente voltado para a criação de modelos 3d, sendo utilizado para a criação de arenas mais complexas com maior facilidade que outras ferramentas.  
+O Simulador Gazebo, que será utilizado no projeto, pode ser usado para se desenvolver arenas, mas seu uso principal é para a simulação de sensores e algoritmos em um ambiente físico completamente simulado.
+Estes softwares possuem apreciação pelo público-alvo, mas por serem softwares separados acaba ocorrendo o problema da exportação de arquivos e conversão para utilizar em outro software (Autodesk Fusion/Blender → Gazebo), já que alguns formatos de arquivos (como sdf) podem ter problemas ao serem convertidos para versões anteriores.  
+Os softwares são gratuitos, com exceção do Autodesk Fusion que possui uma versão gratuita e versões pagas, com amplas comunidades e diversas versões que podem ser utilizadas pelos usuários. 
+O modelo de negócio do Autodesk Fusion é baseado nos diversos tipos de softwares distribuídos pela Autodesk. Mesmo possuindo avaliações gratuitas e até versões gratuitas para uso pessoal, as outras versões dos softwares são pagas por meio de assinaturas mensais ou anuais.    
+O modelo de negócio do Blender ocorre a partir de anúncios, merchandise, eventos, inscrições e doações, amplamente adotado pela comunidade de modeladores 3D.  
+O Gazebo Simulator é um software gratuito e de código aberto, amplamente adotado pela comunidade de robótica.    
 Observando estas concorrências, podemos observar que são bastante apreciadas por possuírem comunidades ativas, suporte para mais de uma plataforma, liberdade criativa para desenvolvimento, entre outros.  
-Estes softwares são bons para o que cumprem, mas o gazebo poderia ter alguma forma de desenvolvimento que pudesse ser mais sofisticada para o desenvolvimento de arenas mais complexas com mais facilidade. O Blender não é um simulador e o autodesk fusion é melhor para importação de CADs prontos.  
+Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gazebo é algo que continua difícil. Se o Gazebo tivesse alguma forma de desenvolvimento que pudesse ser mais fácil de utilizar, teríamos o melhor dos dois mundos: Um ótimo simulador de sensores e algoritmos de robôs, e uma ótima ferramenta de modelagem de mapas para utilizar dentro do simulador. Já que o Blender não é um simulador e o autodesk fusion é melhor para importação de CADs prontos e simulação de materiais.   
 
       
 ### Personas
