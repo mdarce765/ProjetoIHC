@@ -160,6 +160,35 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   - A interface principal é um mapa similar à arena presente na K4-04 com a vista de cima. O usuário reconhecerá a arena caso já tenha visto a mesma.
 
 ## Ambiente e contexto
+### Perguntas
+* Porque os atores querem ou precisam alcançar esse objetivo?
+  * R: Para obter uma arena com mais facilidade.
+* De que informações ou conhecimentos os atores precisam para realizar esse objetivo?
+  * R: Entendimento sobre a arena da K404 e como a mesma funciona.
+* Em que situações o cenário ocorre (quase, onde e pq)?
+  * R: Quando disponível na Sala k404 da FEI por conta de aula ou testes.
+* Quais são as tecnologias utilizadas no ambiente de trabalho? Como os usuários as utilizam?
+  * R: Robôs, simuladores e ROS
+* Quais características dos atores lhes auxiliam ou atrapalham em alcançar o objetivo?
+  * R: Entendimento lógico, entendimento sobre a arena da K404
+* Quem precisa ser notificado da conclusão (bem/mal sucedida) do objetivo?
+  * R: O usuário
+* Como os atores alcançam o objetivo atualmente?
+  * R: Precisam montar arenas fisicamente e testar manualmente se a mesma lhes agrada.
+* De que maneira o ambiente e o sistema auxiliam ou impedem que os atores tomem decisões adequadas?
+  * R: Por ser um simulador, a interface auxilia no desenvolvimento da arena, tornando o processo manual para virtual.
+* Que recursos estão disponíveis para realizá-la?
+  * R: Simuladores e o computador.
+* Quais problemas ou dificuldades podem surgir ao realizá-la?
+  * R: Um processo a mais para fazer, mas facilitando outro futuro.
+* Quais eventos disparam a necessidade de alcançar o objetivo?
+  * R: A necessidade de montar arenas manualmente.
+* Quais eventos são (deveriam ser) disparados pela conclusão desse objetivo?
+  * R: facilitar o desenvolvimento de arenas simuladas baseadas na arena da k404
+* Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso?
+  * R: O programa gera arquivos de mapa e .sdf para o usuário utilizar.
+* Qual é o resultado do alcance do objetivo?
+  * R: O usuário consegue desenvolver arenas de maneira mais simples, podendo desenvolver de maneira mais rápida.
 
 ## Coleta de dados
 
