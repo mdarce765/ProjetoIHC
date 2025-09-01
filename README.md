@@ -196,6 +196,14 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   * **Persona: Edson Adalberto.**  
   O professor Edson Adalberto é um professor que trabalha muito com robôs, o professor estava pensando em um plano de aulas com exemplos mais práticos, para isso o mesmo decidiu utilizar a sala da K4-04 onde existe uma arena que o mesmo pode utilizar, esta arena pode tem uma base pronta, mas pode ser alterada pelo usuário com a adição de placas que funcionariam como paredes para dificultar a locomoção de um robô, mas o mesmo encontrou um problema que seria o justamente o desenvolvimento da arena, para desenvolver labirintos para serem utilizados na aula, o mesmo precisa estar no campus e montar e desmontar a arena diversas vezes até encontrar uma arena que cumpra os requisitos que o mesmo deseja.
 
+* **Persona: Kelly do Nascimento.**  
+* **Persona: Ayrton Fernandes.**  
+
+<!--* **Kelly do Nascimento**, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
+Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
+* **Ayrton Fernandes**, 22 anos, aluno desenvolvendo seu Trabalho de Conclusão de Curso.
+Ayrton Fernandes, é um aluno que está no último semestre e está desenvolvendo o seu TCC, o seu TCC consiste em desenvolver um robô funcional que consegue subir e descer escadas sem arriscar cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.-->
+
   <!--Marcos Correa, orientador de Fernando, é um professor requisitado que orienta diversos alunos ao mesmo tempo. Todo início de período ele recebe diversas mensagens informando-lhe sobre os projetos finais cadastrados sob sua supervisão. Infelizmente, as mensagens não apresentam os dados cadastrados, então ele precisa entrar no sistema para conferir os dados. Além disso, mesmo já estando no sistema e verificando um projeto, ele não consegue ver os dados dos outros projetos pendentes. Sendo assim, tem de ficar alternando entre o seu cliente de e-mail e o sistema acadêmico, e às vezes ele acaba visitando os dados de um mesmo projeto mais de uma vez.-->
 
 ## Coleta de dados
