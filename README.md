@@ -160,7 +160,6 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   - A interface principal é um mapa similar à arena presente na K4-04 com a vista de cima. O usuário reconhecerá a arena caso já tenha visto a mesma.
 
 ## Ambiente e contexto
-### Perguntas
 <!--
 * Porque os atores querem ou precisam alcançar esse objetivo?
   * R: Para obter uma arena com mais facilidade.
@@ -191,8 +190,11 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 * Qual é o resultado do alcance do objetivo?
   * R: O usuário consegue desenvolver arenas de maneira mais simples, podendo desenvolver de maneira mais rápida.
   -->
-  Persona: Robervaldo Arantes.  
-  Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na salda da K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
+  * **Persona: Robervaldo Arantes.**  
+  Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na sala K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
+
+  * **Persona: Edson Adalberto.**  
+  O professor Edson Adalberto é um professor que trabalha muito com robôs, o professor estava pensando em um plano de aulas com exemplos mais práticos, para isso o mesmo decidiu utilizar a sala da K4-04 onde existe uma arena que o mesmo pode utilizar, esta arena pode tem uma base pronta, mas pode ser alterada pelo usuário com a adição de placas que funcionariam como paredes para dificultar a locomoção de um robô, mas o mesmo encontrou um problema que seria o justamente o desenvolvimento da arena, para desenvolver labirintos para serem utilizados na aula, o mesmo precisa estar no campus e montar e desmontar a arena diversas vezes até encontrar uma arena que cumpra os requisitos que o mesmo deseja.
 
   <!--Marcos Correa, orientador de Fernando, é um professor requisitado que orienta diversos alunos ao mesmo tempo. Todo início de período ele recebe diversas mensagens informando-lhe sobre os projetos finais cadastrados sob sua supervisão. Infelizmente, as mensagens não apresentam os dados cadastrados, então ele precisa entrar no sistema para conferir os dados. Além disso, mesmo já estando no sistema e verificando um projeto, ele não consegue ver os dados dos outros projetos pendentes. Sendo assim, tem de ficar alternando entre o seu cliente de e-mail e o sistema acadêmico, e às vezes ele acaba visitando os dados de um mesmo projeto mais de uma vez.-->
 
