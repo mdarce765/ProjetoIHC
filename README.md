@@ -161,6 +161,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 
 ## Ambiente e contexto
 ### Perguntas
+<!--
 * Porque os atores querem ou precisam alcançar esse objetivo?
   * R: Para obter uma arena com mais facilidade.
 * De que informações ou conhecimentos os atores precisam para realizar esse objetivo?
@@ -170,7 +171,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 * Quais são as tecnologias utilizadas no ambiente de trabalho? Como os usuários as utilizam?
   * R: Robôs, simuladores e ROS
 * Quais características dos atores lhes auxiliam ou atrapalham em alcançar o objetivo?
-  * R: Entendimento lógico, entendimento sobre a arena da K404
+  * R: Entendimento lógico, entendimento sobre a arena da K404, falta de autorização.
 * Quem precisa ser notificado da conclusão (bem/mal sucedida) do objetivo?
   * R: O usuário
 * Como os atores alcançam o objetivo atualmente?
@@ -189,6 +190,11 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   * R: O programa gera arquivos de mapa e .sdf para o usuário utilizar.
 * Qual é o resultado do alcance do objetivo?
   * R: O usuário consegue desenvolver arenas de maneira mais simples, podendo desenvolver de maneira mais rápida.
+  -->
+  Persona: Robervaldo Arantes.  
+  Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na salda da K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
+
+  <!--Marcos Correa, orientador de Fernando, é um professor requisitado que orienta diversos alunos ao mesmo tempo. Todo início de período ele recebe diversas mensagens informando-lhe sobre os projetos finais cadastrados sob sua supervisão. Infelizmente, as mensagens não apresentam os dados cadastrados, então ele precisa entrar no sistema para conferir os dados. Além disso, mesmo já estando no sistema e verificando um projeto, ele não consegue ver os dados dos outros projetos pendentes. Sendo assim, tem de ficar alternando entre o seu cliente de e-mail e o sistema acadêmico, e às vezes ele acaba visitando os dados de um mesmo projeto mais de uma vez.-->
 
 ## Coleta de dados
 
