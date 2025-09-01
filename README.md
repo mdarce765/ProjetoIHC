@@ -114,7 +114,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto? -->
 
-  O produto possui o foco de ser utilizado por pessoas envolvidas com a instituição FEI de São Bernardo do Campo, pois a arena em que o produto foi baseada é a da sala k4-04, qualquer interessado pode utilizar o produto, mas para acessar a arena da k4-04 é necessária uma permissão da instituição para utilizar a mesma.
+  O produto possui o foco de ser utilizado por pessoas envolvidas com a instituição FEI de São Bernardo do Campo, pois a arena em que o produto foi baseada é a da sala k4-04, qualquer interessado pode utilizar o produto, mas para acessar a arena da k4-04 é necessária permissão.
   O produto deve guardar as informações relacionadas à arena e as alterações realizadas pelo usuário, como posições, ajustes, etc, para então o mesmo testar em um simulador próprio.
   O ambiente deve estar sempre pronto para alterações do usuário, tanto quanto criar, posicionar ou deletar as paredes que funcionarão como obstáculos na simulação.
   COMPLEMENTAR(falar sobre a sala k404, relacionar, falar como o usuário vai executar o projeto)
@@ -126,19 +126,18 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   - Descreva o que acontece ou pode acontecer passo a passo
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina? -->
 
-  1. Usuário acessa o executável da interface.
+  1. Usuário acessa o executável do programa de criação de mapas.
   2. Executável inicia a interface.
   3. Usuário seleciona a opção de adicionar obstáculos a uma arena vazia (Apenas o modelo da arena, sem nenhum obstáculo).
-  4. Interface mostra um mapa com botões interativos. Estes botões interativos representam os "furos" em que podem se inserir os apoios dos obstáculos da arena física.
+  4. Interface mostra um mapa com botões interativos. Estes botões interativos representam as Paredes que podem ser colocadas no mapa.
   5. Usuário seleciona um botão.
   6. Botão muda de cor.
-  7. O usuário seleciona outro botão próximo ao botão selecionado.
-  8. Interface conecta ambos os botões.
-  9. Programa escreve no arquivo a posição em que uma parede será posicionada.
-  10. Usuário seleciona finalizar.
-  11. Interface gera um arquivo ".sdf" com o mapa finalizado e um mapa para ser utilizado pelo robô. (falar a extensão do arquivo do mapa)
-  12. Usuário encerra a interface.
-  13. Interface é finalizada.
+  7. Programa escreve no arquivo a posição em que a parede será posicionada.
+  8. Usuário repete o passo 5 até estar satisfeito com a arena produzida.
+  9. Usuário seleciona finalizar.
+  10. Interface gera um arquivo ".sdf" com o mapa finalizado e um mapa para ser utilizado pelo robô. (falar a extensão do arquivo do mapa)
+  11. Usuário encerra a interface.
+  12. Programa de criação de mapas é encerrado.
 
 
 <!--
@@ -154,10 +153,10 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 - Usabilidade:
   - Sua importância é muito necessária, o intuito do projeto é o de facilitar o desenvolvimento de arenas relacionadas a arena da sala k4-04, para isso foi pensado um sistema de botões que representam as posições em que os obstáculos possam ser posicionados na arena real, pois é visado a fidelidade da arena e suas possíveis formações.
 - Experiência de usuário:
-  - É esperado que o usuário se sinta satisfeito ao utilizar o produto, por conta de ter um processo facilitado com relação ao desenvolvimento de arenas. 
+  - É esperado que o usuário se sinta satisfeito ao utilizar o produto, por conta de ter um processo facilitado, quando comparado com ter que modificar manualmente a arena. 
 - Acessibilidade: 
 - Comunicabilidade:
-  - A interface principal é um mapa similar à arena presente na K4-04 com a vista de cima. O usuário reconhecerá a arena caso já tenha visto a mesma.
+  - A interface principal possui uma imagem da arena presente na K4-04 com a vista de cima, facilitando o entendimento e interpretação do oque está fazendo.
 
 ## Ambiente e contexto
 <!--
