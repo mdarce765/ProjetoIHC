@@ -102,7 +102,16 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   - O que o usuário diz e faz: Utiliza roupas relacionadas ao curso de mecânica. Gosta de mexer na parte física das máquinas. 
   - O que o usuário pensa e sente: Quanto mais se analisa um assunto, mais fácil de se trabalhar no mesmo. A mecânica é uma área tão abrangente que pode se espalhar para outras áreas.
   - Dores: Trabalhar e estudar é cansativo e exaustivo. É cansativo analisar tantos assuntos para se acompanhar a própria área.
-  - Ganhos: Acompanhar tantos assuntos é cansativo, mas recompensador pelo entendimento. Criar um carro 100% nacional é um de seus maiores objetivos. MUDAR(Relacionar com o projeto)
+  - Ganhos: Ganho de tempo ao utilizar a ferramenta para montar arenas em formato .sdf e testes no Gazebo Classic, dando mais tempo para o estudo de diferentes simuladores.  
+ 
+* Robervaldo Arantes, 18 anos
+  - O que o usuário vê: Professores. Alunos. Loja do Augusto.   
+  - O que o usuário ouve: Músicas EDM. Podcasts. Aulas online sobre robótica.  
+  - O que o usuário diz e faz: Curiosidade. Monta mapas sem sentido para testar a ferramenta. Ri dos desenhos que faz com as paredes da Arena.   
+  - O que o usuário pensa e sente: Liberdade. Pensando em configurações diferentes da arena que poderia criar. Interessado em uma ferramenta que pode utilizar para ser introduzido à modelagem de mapas.   
+  - Dores: Necessidade de instalar Linux ou Docker para colocar a ferramenta em uso.  
+  - Ganhos: Interação com simulação de forma extremamente facilitada, criando ainda mais entusiasmo para aprender a fundo.  
+ 
     
 ### Persona Secundária
 <!-- 
