@@ -70,21 +70,21 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 -->
   #### Personas primárias
   * Edson Adalberto, 35 anos, professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
-    * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e, para isso, o mesmo utiliza ferramentas como Simulador Gazebo, pois assim ele consegue aulas mais dinâmicas para os seus alunos.
-      <img width="809" height="899" alt="Edson Adalberto" src="https://github.com/user-attachments/assets/3f398a05-610c-492f-b785-e2c03a4520d9" />
+    * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e, para isso, o mesmo utiliza ferramentas como Simulador Gazebo, pois assim ele consegue aulas mais dinâmicas para os seus alunos.  
+      <img width="309" height="399" alt="Edson Adalberto" src="https://github.com/user-attachments/assets/3f398a05-610c-492f-b785-e2c03a4520d9" />
 
   * Robervaldo Arantes, 18 anos, aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
-    * Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se preparar para aulas futuras.
-      <img width="836" height="899" alt="Robervaldo Arantes" src="https://github.com/user-attachments/assets/fa3d995a-9bee-449f-8e20-6cc2974321e8" />
+    * Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se preparar para aulas futuras.  
+      <img width="309" height="399" alt="Robervaldo Arantes" src="https://github.com/user-attachments/assets/fa3d995a-9bee-449f-8e20-6cc2974321e8" />
 
   * Kelly do Nascimento, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
-    * Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
-      <img width="896" height="899" alt="Kelly do Nascimento" src="https://github.com/user-attachments/assets/59578f43-f8f7-48aa-9e12-293f6913ee84" />
+    * Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.  
+      <img width="309" height="399" alt="Kelly do Nascimento" src="https://github.com/user-attachments/assets/59578f43-f8f7-48aa-9e12-293f6913ee84" />
 
   #### Persona secundária
   * Ayrton Fernandes, 22 anos, aluno desenvolvendo seu Trabalho de Conclusão de Curso.  
-    * Ayrton Fernandes, é um aluno que está no último semestre e está desenvolvendo o seu TCC, o seu TCC consiste em desenvolver um robô funcional que consegue subir e descer escadas sem arriscar cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
-      <img width="896" height="899" alt="Ayrton Fernandes" src="https://github.com/user-attachments/assets/b434562d-60df-4833-b0e8-45e0334bc402" />
+    * Ayrton Fernandes, é um aluno que está no último semestre e está desenvolvendo o seu TCC, o seu TCC consiste em desenvolver um robô funcional que consegue subir e descer escadas sem arriscar cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.  
+      <img width="309" height="399" alt="Ayrton Fernandes" src="https://github.com/user-attachments/assets/b434562d-60df-4833-b0e8-45e0334bc402" />
 
 ### Mapa de empatia
 
