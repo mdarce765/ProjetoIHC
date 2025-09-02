@@ -102,6 +102,13 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 ### Persona primária
 <!-- * Kelly do Nascimento, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
     * Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto. -->
+* Edson Adalberto, 35 anos.
+  - O que o usuário vê: Alunos. Documentos ciêntificos sobre robótica.  
+  - O que o usuário ouve: Reclamações de alunos, pedindo por formas mais intuitivas de estudar o conteúdo.    
+  - O que o usuário diz e faz: Interesse. Testa os limites da ferramenta, testando sua resiliência.
+  - O que o usuário pensa e sente: Incerteza. Não tem certeza se a ferramenta beneficiaria o aprendizado dos alunos.  
+  - Dores: Falta de variação de mapas base além da Arena K4-04.  
+  - Ganhos: Maior engajamento dos alunos com modelagem de arenas, incentivando os alunos a "aprenderem ao brincarem".  
 * Kelly do Nascimento, 25 anos.
   - O que o usuário vê: Alunos. Partes Mecânicas. Softwares de simulações.  
   - O que o usuário ouve: Assiste a vídeos relacionados a análise de carros. Muito interessada em acompanhar a equipe Baja FEI no Instagram. Precisa se esforçar para entregar os laboratórios.  
@@ -110,7 +117,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   - Dores: Trabalhar e estudar é cansativo e exaustivo. É cansativo analisar tantos assuntos para se acompanhar a própria área.
   - Ganhos: Ganho de tempo ao utilizar a ferramenta para montar arenas em formato .sdf e testes no Gazebo Classic, dando mais tempo para o estudo de diferentes simuladores.  
  
-* Robervaldo Arantes, 18 anos
+* Robervaldo Arantes, 18 anos.
   - O que o usuário vê: Professores. Alunos. Loja do Augusto.   
   - O que o usuário ouve: Músicas EDM. Podcasts. Aulas online sobre robótica.  
   - O que o usuário diz e faz: Curiosidade. Monta mapas sem sentido para testar a ferramenta. Ri dos desenhos que faz com as paredes da Arena.   
