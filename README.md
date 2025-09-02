@@ -71,14 +71,20 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   #### Personas primárias
   * Edson Adalberto, 35 anos, professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
     * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e, para isso, o mesmo utiliza ferramentas como Simulador Gazebo, pois assim ele consegue aulas mais dinâmicas para os seus alunos.
+      <img width="809" height="899" alt="Edson Adalberto" src="https://github.com/user-attachments/assets/3f398a05-610c-492f-b785-e2c03a4520d9" />
+
   * Robervaldo Arantes, 18 anos, aluno de "Engenharia de robôs" - "A robótica é o futuro da humanidade"
     * Robervaldo Arantes é um calouro na instituição da FEI, após observar a grade curricular, o mesmo ouviu de outro aluno que o mesmo já poderia utilizar um simulador gratuito para testar os robôs da maneira que desejasse, podendo assim se aprofundar no curso e se preparar para aulas futuras.
+      <img width="836" height="899" alt="Robervaldo Arantes" src="https://github.com/user-attachments/assets/fa3d995a-9bee-449f-8e20-6cc2974321e8" />
+
   * Kelly do Nascimento, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
     * Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
-  
+      <img width="896" height="899" alt="Kelly do Nascimento" src="https://github.com/user-attachments/assets/59578f43-f8f7-48aa-9e12-293f6913ee84" />
+
   #### Persona secundária
   * Ayrton Fernandes, 22 anos, aluno desenvolvendo seu Trabalho de Conclusão de Curso.  
     * Ayrton Fernandes, é um aluno que está no último semestre e está desenvolvendo o seu TCC, o seu TCC consiste em desenvolver um robô funcional que consegue subir e descer escadas sem arriscar cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.
+      <img width="896" height="899" alt="Ayrton Fernandes" src="https://github.com/user-attachments/assets/b434562d-60df-4833-b0e8-45e0334bc402" />
 
 ### Mapa de empatia
 
@@ -215,7 +221,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
     * O professor Edson Adalberto é um professor que trabalha muito com robôs, o professor estava pensando em um plano de aulas com exemplos mais práticos, para isso o mesmo decidiu utilizar a sala da K4-04 onde existe uma arena que o mesmo pode utilizar, esta arena pode tem uma base pronta, mas pode ser alterada pelo usuário com a adição de placas que funcionariam como paredes para dificultar a locomoção de um robô, mas o mesmo encontrou um problema que seria o justamente o desenvolvimento da arena, para desenvolver labirintos para serem utilizados na aula, o mesmo precisa estar no campus e montar e desmontar a arena diversas vezes até encontrar uma arena que cumpra os requisitos que o mesmo deseja.
 
 * **Persona: Kelly do Nascimento.**
-    * Kelly do Nascimento começou a desenvolver uma iniciação cientifica com o título de "" que possui o objetivo de melhorar um robô desenvolvido por outro aluno da instituição, Kelly conseguiu acesso ao robô real, seu modelo simulado e ao modelo simulado da arena, a mesma planeja testá-lo, para isso o seu orientador concedeu acesso à sala K4-04 para a mesma usar fora dos horários de aula. Infelizmente devido a seu trabalho e a suas aulas, Kelly não teria tempo para pensar, montar e testar uma arena enquanto estivesse na sala, para isso a mesma utilizaria o modelo simulado, mas o mesmo não possui tamanha precisão nem onde possui cada obstáculo, forçando Kelly a ter que arrumar alguns erros quando estivesse na arena presencial.
+    * Kelly do Nascimento começou a desenvolver uma iniciação cientifica com o título de "Aprimoramento de robô funcional da instituição." que possui o objetivo de melhorar um robô desenvolvido por outro aluno da instituição, Kelly conseguiu acesso ao robô real, seu modelo simulado e ao modelo simulado da arena, a mesma planeja testá-lo, para isso o seu orientador concedeu acesso à sala K4-04 para a mesma usar fora dos horários de aula. Infelizmente devido a seu trabalho e a suas aulas, Kelly não teria tempo para pensar, montar e testar uma arena enquanto estivesse na sala, para isso a mesma utilizaria o modelo simulado, mas o mesmo não possui tamanha precisão nem onde possui cada obstáculo, forçando Kelly a ter que arrumar alguns erros quando estivesse na arena presencial.
 
 <!--* **Kelly do Nascimento**, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
 Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
