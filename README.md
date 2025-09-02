@@ -109,7 +109,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
   - O que o usuário ouve: Músicas EDM. Podcasts. Aulas online sobre robótica.  
   - O que o usuário diz e faz: Curiosidade. Monta mapas sem sentido para testar a ferramenta. Ri dos desenhos que faz com as paredes da Arena.   
   - O que o usuário pensa e sente: Liberdade. Pensando em configurações diferentes da arena que poderia criar. Interessado em uma ferramenta que pode utilizar para ser introduzido à modelagem de mapas.   
-  - Dores: Necessidade de instalar Linux ou Docker para colocar a ferramenta em uso.  
+  - Dores: Necessidade de instalar Linux ou Docker para colocar o mapa em uso no Gazebo Classic.  
   - Ganhos: Interação com simulação de forma extremamente facilitada, criando ainda mais entusiasmo para aprender a fundo.  
  
     
