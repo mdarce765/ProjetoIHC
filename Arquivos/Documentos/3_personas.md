@@ -62,7 +62,7 @@
 
 ### Mapa de empatia
 
-![Mapa de empatia](Arquivos/Imagens/empatia.png)
+![Mapa de empatia](../Imagens/empatia.png)
 
 <!-- - Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
   - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
