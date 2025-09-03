@@ -25,6 +25,21 @@ A conteinerização é uma ferramenta poderosa no campo de desenvolvimento e imp
 Pessoas que trabalham com robôs e pessoas que desejam desenvolver arenas simuladas/reais de uma maneira mais rápida e simples.   
 Este público alvo deseja realizar testes de maneira rápida e fácil, quanto menos configurações ou instalações manuais forem necessárias, o melhor. Quanto mais facilitar o processo de desenvolver os mapas, mais rápido os mesmos poderão testar os robôs. Este público deseja velocidade, simplicidade, bom desempenho, possibilidades de serem criativos e etc.
 
+## Desenvolvimento
+- [Análise de Concorência](Arquivos/Documentos/2_concorencia.md)
+- [Personas](Arquivos/Documentos/3_personas.md)
+- [Cenário de Análise/Problema](Arquivos/Documentos/4_cenarios.md)
+- [Análide de Tarefas](Arquivos/Documentos/5_analise_tarefas.md)
+- [Prototipação em Papel](Arquivos/Documentos)
+- [Coleta de Dados](Arquivos/Documentos)
+- [Ciclo de vida da engenharia de usabilidade](Arquivos/Documentos)
+- [Modelo Conceitual](Arquivos/Documentos) 
+- [MOLIC](Arquivos/Documentos)
+- [FIGMA](Arquivos/Documentos)
+- [Planejamento da Avaliação](Arquivos/Documentos)
+- [Avaliação de IHC através de Inspeção Heurística](Arquivos/Documentos)
+- [Avaliação de Usabilidade baseado em Observação do Usuário](Arquivos/Documentos)
+
 ## Análise de concorrência
 
 <!-- 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo. X
@@ -88,7 +103,7 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 
 ### Mapa de empatia
 
-![Mapa de empatia](empatia.png)
+![Mapa de empatia](Arquivos/Imagens/empatia.png)
 
 <!-- - Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
   - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
