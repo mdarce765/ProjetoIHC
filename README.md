@@ -26,7 +26,7 @@ Pessoas que trabalham com robôs e pessoas que desejam desenvolver arenas simula
 Este público alvo deseja realizar testes de maneira rápida e fácil, quanto menos configurações ou instalações manuais forem necessárias, o melhor. Quanto mais facilitar o processo de desenvolver os mapas, mais rápido os mesmos poderão testar os robôs. Este público deseja velocidade, simplicidade, bom desempenho, possibilidades de serem criativos e etc.
 
 ## Desenvolvimento
-- [Análise de Concorência](Arquivos/Documentos/2_concorencia.md)
+- [Análise de Concorrência](Arquivos/Documentos/2_concorencia.md)
 - [Personas](Arquivos/Documentos/3_personas.md)
 - [Cenário de Análise/Problema](Arquivos/Documentos/4_cenarios.md)
 - [Análide de Tarefas](Arquivos/Documentos/5_analise_tarefas.md)
