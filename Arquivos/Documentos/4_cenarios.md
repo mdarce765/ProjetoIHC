@@ -1,10 +1,7 @@
 # Cenário de Análise/Problema
 
 <!-->> **_NOTE:_**: A equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.
-
-1. Cenário de Análise/Problema
-2. Questões de Refinamento
-3. Refinamento do Cenário Análise/Problema-->
+-->
 
 <!--
 * Porque os atores querem ou precisam alcançar esse objetivo?
@@ -36,6 +33,7 @@
 * Qual é o resultado do alcance do objetivo?
   * R: O usuário consegue desenvolver arenas de maneira mais simples, podendo desenvolver de maneira mais rápida.
   -->
+
   * **Persona: Robervaldo Arantes.**  
     * Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na sala K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
 
@@ -44,7 +42,15 @@
 
 * **Persona: Kelly do Nascimento.**
     * Kelly do Nascimento começou a desenvolver uma iniciação cientifica com o título de "Aprimoramento de robô funcional da instituição." que possui o objetivo de melhorar um robô desenvolvido por outro aluno da instituição, Kelly conseguiu acesso ao robô real, seu modelo simulado e ao modelo simulado da arena, a mesma planeja testá-lo, para isso o seu orientador concedeu acesso à sala K4-04 para a mesma usar fora dos horários de aula. Infelizmente devido a seu trabalho e a suas aulas, Kelly não teria tempo para pensar, montar e testar uma arena enquanto estivesse na sala, para isso a mesma utilizaria o modelo simulado, mas o mesmo não possui tamanha precisão nem onde possui cada obstáculo, forçando Kelly a ter que arrumar alguns erros quando estivesse na arena presencial.
-
+ 
+# Questões de Refinamento
+* **Persona: Robervaldo Arantes.**
+* **Persona: Edson Adalberto.**
+* **Persona: Kelly do Nascimento.**
+# Refinamento do Cenário Análise/Problema
+* **Persona: Robervaldo Arantes.**
+* **Persona: Edson Adalberto.**
+* **Persona: Kelly do Nascimento.**
 <!--* **Kelly do Nascimento**, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
 Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
 * **Ayrton Fernandes**, 22 anos, aluno desenvolvendo seu Trabalho de Conclusão de Curso.
