@@ -105,10 +105,10 @@ Estes softwares são ótimos para o que são utilizados, mas a modelagem no Gaze
 * Edson Adalberto, 35 anos.
   - O que o usuário vê: Alunos. Documentos ciêntificos sobre robótica.  
   - O que o usuário ouve: Reclamações de alunos, pedindo por formas mais intuitivas de estudar o conteúdo.    
-  - O que o usuário diz e faz: Interesse. Testa os limites da ferramenta, testando sua resiliência.
-  - O que o usuário pensa e sente: Incerteza. Não tem certeza se a ferramenta beneficiaria o aprendizado dos alunos.  
-  - Dores: Falta de variação de mapas base além da Arena K4-04.  
-  - Ganhos: Maior engajamento dos alunos com modelagem de arenas, incentivando os alunos a "aprenderem ao brincarem".  
+  - O que o usuário diz e faz: Leciona na Faculdade. Pergunta para seus colegas com mais experiência como deixar as aulas mais engajantes.  
+  - O que o usuário pensa e sente: Frustração. Não possui tempo para re-estruturar as aulas, lecionar e continuar seus estudos ao mesmo tempo.     
+  - Dores: Falta de engajamento e aproveitamento por parte dos alunos.  
+  - Ganhos: Maior engajamento dos alunos com modelagem de arenas, incentivando os alunos a "aprenderem ao brincarem".   
 * Kelly do Nascimento, 25 anos.
   - O que o usuário vê: Alunos. Partes Mecânicas. Softwares de simulações.  
   - O que o usuário ouve: Assiste a vídeos relacionados a análise de carros. Muito interessada em acompanhar a equipe Baja FEI no Instagram. Precisa se esforçar para entregar os laboratórios.  
