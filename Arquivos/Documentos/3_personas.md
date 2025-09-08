@@ -42,6 +42,11 @@
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 -->
+### Personas
+<!--
+- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
+- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+-->
   #### Personas primárias
   * Edson Adalberto, 35 anos, professor de "Introdução à robótica móvel" - "Quanto mais prático, melhor"
     * Edson Adalberto é um dos professores de "Introdução à robótica móvel" há 5 anos. Edson realiza testes com robôs para entender mais sobre a disciplina que aplica e os limites dos robôs e, para isso, o mesmo utiliza ferramentas como Simulador Gazebo, pois assim ele consegue aulas mais dinâmicas para os seus alunos.  
@@ -144,14 +149,3 @@
   10. Interface gera um arquivo ".sdf" com o mapa finalizado e um mapa para ser utilizado pelo robô. (falar a extensão do arquivo do mapa)
   11. Usuário encerra a interface.
   12. Programa de criação de mapas é encerrado.
-
-
-<!--
-## Análise de concorrência
-
-- Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
-- Selecione pelo menos 3 serviços ou podutos diferentes.
-- Em relação aos concorrentes, respondam as seguintes perguntas?
-  - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
-  - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
- -->

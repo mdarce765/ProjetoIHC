@@ -12,6 +12,8 @@
 7. Extraia pontos positivos/negativos e faça recomendações.
 -->
 
+## Análise de concorrência
+
 <!-- 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo. X
 2. Colete informações sobre os concorrentes selecionados. X
 3. Analise as características e funcionalidades dos concorrentes. X
