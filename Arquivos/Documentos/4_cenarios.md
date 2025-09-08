@@ -78,14 +78,14 @@
  
 # Questões de Refinamento
 <!--
-Por que, Como, o que é, Pode ser feito da maneira, Faz parte de, Objetivo, Ambiente, Ator(es), Planejamento, Ação, Evento, Avaliação.
+Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na sala K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
 -->
 * **Persona: Robervaldo Arantes.**
   * Por que?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Por que usar a arena?
+    2.  Por que não consegue utilizar a arena?
   * Como?
-    1. Quem pode realizar os testes?
+    1. Como pode se utilizar o modelo da arena?
     2.  a?
   * O que é?
     1. Quem pode realizar os testes?
