@@ -75,18 +75,122 @@
 
 * **Persona: Kelly do Nascimento.**
     * Kelly do Nascimento começou a desenvolver uma iniciação cientifica com o título de "Aprimoramento de robô funcional da instituição." que possui o objetivo de melhorar um robô desenvolvido por outro aluno da instituição, Kelly conseguiu acesso ao robô real, seu modelo simulado e ao modelo simulado da arena, a mesma planeja testá-lo, para isso o seu orientador concedeu acesso à sala K4-04 para a mesma usar fora dos horários de aula. Infelizmente devido a seu trabalho e a suas aulas, Kelly não teria tempo para pensar, montar e testar uma arena enquanto estivesse na sala, para isso a mesma utilizaria o modelo simulado, mas o mesmo não possui tamanha precisão nem onde possui cada obstáculo, forçando Kelly a ter que arrumar alguns erros quando estivesse na arena presencial.
-
-<!--* **Kelly do Nascimento**, 25 anos, aluna realizando uma Iniciação Científica sobre simulações - "Uma simulação torna um resultado mais próximo da realidade"
-Kelly do Nascimento é uma aluna de engenharia mecânica, mas acabou por se interessar pelas simulações. Por conta disso, a mesma decidiu realizar uma Iniciação Científica com esta temática, a mesma está estudando diversos simuladores para poder avançar com o seu projeto.
-* **Ayrton Fernandes**, 22 anos, aluno desenvolvendo seu Trabalho de Conclusão de Curso.
-Ayrton Fernandes, é um aluno que está no último semestre e está desenvolvendo o seu TCC, o seu TCC consiste em desenvolver um robô funcional que consegue subir e descer escadas sem arriscar cair, para testar este feito, o mesmo resolveu testar o robô com simuladores para poder ver se o que ele desenvolveu esta no caminho certo.-->
-
-  <!--Marcos Correa, orientador de Fernando, é um professor requisitado que orienta diversos alunos ao mesmo tempo. Todo início de período ele recebe diversas mensagens informando-lhe sobre os projetos finais cadastrados sob sua supervisão. Infelizmente, as mensagens não apresentam os dados cadastrados, então ele precisa entrar no sistema para conferir os dados. Além disso, mesmo já estando no sistema e verificando um projeto, ele não consegue ver os dados dos outros projetos pendentes. Sendo assim, tem de ficar alternando entre o seu cliente de e-mail e o sistema acadêmico, e às vezes ele acaba visitando os dados de um mesmo projeto mais de uma vez.-->
  
 # Questões de Refinamento
+<!--
+Por que, Como, o que é, Pode ser feito da maneira, Faz parte de, Objetivo, Ambiente, Ator(es), Planejamento, Ação, Evento, Avaliação.
+-->
 * **Persona: Robervaldo Arantes.**
+  * Por que?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Como?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * O que é?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Pode ser feito da maneira?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Faz parte de?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Objetivo?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ambiente?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ator(es)?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Planejamento?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ação?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Evento?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Avaliação?
+    1. Quem pode realizar os testes?
+    2.  a?  
 * **Persona: Edson Adalberto.**
+  * Por que?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Como?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * O que é?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Pode ser feito da maneira?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Faz parte de?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Objetivo?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ambiente?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ator(es)?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Planejamento?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ação?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Evento?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Avaliação?
+    1. Quem pode realizar os testes?
+    2.  a?  
 * **Persona: Kelly do Nascimento.**
+  * Por que?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Como?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * O que é?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Pode ser feito da maneira?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Faz parte de?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Objetivo?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ambiente?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ator(es)?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Planejamento?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Ação?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Evento?
+    1. Quem pode realizar os testes?
+    2.  a?
+  * Avaliação?
+    1. Quem pode realizar os testes?
+    2.  a?  
 # Refinamento do Cenário Análise/Problema
 * **Persona: Robervaldo Arantes.**
 * **Persona: Edson Adalberto.**
