@@ -81,42 +81,42 @@
 Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na sala K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
 -->
 * **Persona: Robervaldo Arantes.**
-  * Por que?
+  * Por quê?
     1. Por que usar a arena?
     2.  Por que não consegue utilizar a arena?
   * Como?
     1. Como pode se utilizar o modelo da arena?
-    2.  a?
+    2.  Como pode contornar a falta de autorização?
   * O que é?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. O que é a arena da K4-04?
+    2.  O que são os testes realizados?
   * Pode ser feito da maneira?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Como podem ser feitos os testes?
+    2.  Como pode ser utilizada a sala e a arena?
   * Faz parte de?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. A quem a arena pertence?
+    2.  Qual o grande foco de alunos que fazem parte do grupo que pode utilizar a sala?
   * Objetivo?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Qual o objetivo do interesse?
+    2.  Qual o objetivo de testar os robôs?
   * Ambiente?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Onde está localizada a arena?
+    2.  Quais alterações podem ser feitas?
   * Ator(es)?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Quem pode permitir o acesso à arena?
+    2.  Quem possui o modelo da arena?
   * Planejamento?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Por que deseja acessar a arena?
+    2.  Como deseja utilizar a arena?
   * Ação?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. O que é realizado na arena?
+    2.  O que o usuário pode realizar com a simulação?
   * Evento?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Quando se pode utilizar a sala?
+    2.  Quando os alunos podem utilizar a sala sem uma autorização da instituição?
   * Avaliação?
-    1. Quem pode realizar os testes?
-    2.  a?  
+    1. Como os testes são avaliados?
+    2.  Como é avalizado quem pode utilizar a sala?  
 * **Persona: Edson Adalberto.**
   * Por que?
     1. Quem pode realizar os testes?
