@@ -116,7 +116,7 @@ Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia d
     2.  Quando os alunos podem utilizar a sala sem uma autorização da instituição?
   * Avaliação?
     1. Como os testes são avaliados?
-    2.  Como é avalizado quem pode utilizar a sala?  
+    2.  Como é avaliado quem pode utilizar a sala?  
 * **Persona: Edson Adalberto.**
   * Por que?
     1. Quem pode realizar os testes?
