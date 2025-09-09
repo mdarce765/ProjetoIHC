@@ -156,41 +156,41 @@ Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia d
     2.  a?  
 * **Persona: Kelly do Nascimento.**
   * Por que?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Porque ela prefere fazer o simulado?
+    2. Porque a IC dela é melhorar o robô desenvolvido por outro aluno?
   * Como?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Que ferramentas ela está utilizando?
+    2. Como que ela está desenvolvendo atualmente?
   * O que é?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Oque exatamente é essa IC?
+    2. Que melhoria é procurada neste robô?
   * Pode ser feito da maneira?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Quais as opções que ela possui para teste?
+    2. Os métodos utilizados são os melhores disponíveis?
   * Faz parte de?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Ela faz parte do curso de robótica?
+    2. O aluno mencionado é do curso de robótica?
   * Objetivo?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Qual a métrica de sucesso na melhoria?
+    2. Qual o objetivo por trás de utilizar as arenas? 
   * Ambiente?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. O acesso na K4-04 é a qualquer hora?
+    2. Ela possui equipamento para desenvolver o projeto em casa?
   * Ator(es)?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Quem é o outro aluno?
+    2. Quem é o professor?
   * Planejamento?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. A proposta da IC não considerava como seria feito os testes?
+    2. O outro aluno (desenvolvedor do robô) não está envolvido no planejamento?
   * Ação?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Como que ela está lidando com essa pressão?
+    2. Ela já pediu por ajuda?
   * Evento?
-    1. Quem pode realizar os testes?
-    2.  a?
+    1. Esses problemas já foram discutidos no encontro com o orientador?
+    2. Quando será a entrega da IC dela?
   * Avaliação?
-    1. Quem pode realizar os testes?
-    2.  a?  
+    1. Ela sabe avaliar o progresso atual da IC?
+    2. Como está o progresso atual dela?  
 # Refinamento do Cenário Análise/Problema
 * **Persona: Robervaldo Arantes.**
 * **Persona: Edson Adalberto.**
