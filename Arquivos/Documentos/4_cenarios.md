@@ -2,7 +2,15 @@
 
 <!-->> **_NOTE:_**: A equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.
 -->
-
+## Qualidade de uso
+- Usabilidade:
+  - Sua importância é muito necessária, o intuito do projeto é o de facilitar o desenvolvimento de arenas relacionadas a arena da sala k4-04, para isso foi pensado um sistema de botões que representam as posições em que os obstáculos possam ser posicionados na arena real, pois é visado a fidelidade da arena e suas possíveis formações.
+- Experiência de usuário:
+  - É esperado que o usuário se sinta satisfeito ao utilizar o produto, por conta de ter um processo facilitado, quando comparado com ter que modificar manualmente a arena. 
+- Acessibilidade:
+  - O programa possuirá uma maneira para aplicar zoom nas imagens e aumentar o texto, para auxiliar pessoas com deficiências visuais. 
+- Comunicabilidade:
+  - A interface principal possui uma imagem da arena presente na K4-04 com a vista de cima, facilitando o entendimento e interpretação do oque está fazendo.
 <!--
 * Porque os atores querem ou precisam alcançar esse objetivo?
   * R: Para obter uma arena com mais facilidade.
@@ -34,7 +42,7 @@
   * R: O usuário consegue desenvolver arenas de maneira mais simples, podendo desenvolver de maneira mais rápida.
   -->
 
-
+## Cenário de Análise/Problema
 <!--
 ## Ambiente e contexto
 
