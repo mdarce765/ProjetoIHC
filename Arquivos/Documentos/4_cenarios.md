@@ -89,122 +89,129 @@
 Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na sala K4-04, para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala para utilizar em algum simulador, mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
 -->
 * **Persona: Robervaldo Arantes.**
-  * Por quê?
-    1. Por que usar a arena?
-    2.  Por que não consegue utilizar a arena?
-  * Como?
-    1. Como pode se utilizar o modelo da arena?
-    2.  Como pode contornar a falta de autorização?
-  * O que é?
-    1. O que é a arena da K4-04?
-    2.  O que são os testes realizados?
-  * Pode ser feito da maneira?
-    1. Como podem ser feitos os testes?
-    2.  Como pode ser utilizada a sala e a arena?
-  * Faz parte de?
-    1. A quem a arena pertence?
-    2.  Qual o grande foco de alunos que fazem parte do grupo que pode utilizar a sala?
-  * Objetivo?
-    1. Qual o objetivo do interesse?
-    2.  Qual o objetivo de testar os robôs?
-  * Ambiente?
-    1. Onde está localizada a arena?
-    2.  Quais alterações podem ser feitas?
-  * Ator(es)?
-    1. Quem pode permitir o acesso à arena?
-    2.  Quem possui o modelo da arena?
-  * Planejamento?
-    1. Por que deseja acessar a arena?
-    2.  Como deseja utilizar a arena?
-  * Ação?
-    1. O que é realizado na arena?
-    2.  O que o usuário pode realizar com a simulação?
-  * Evento?
-    1. Quando se pode utilizar a sala?
-    2.  Quando os alunos podem utilizar a sala sem uma autorização da instituição?
-  * Avaliação?
-    1. Como os testes são avaliados?
-    2.  Como é avaliado quem pode utilizar a sala?  
+  * Por quê?  
+     1 - Por que usar a arena?  
+     2 - Por que não consegue utilizar a arena?  
+  * Como?  
+     3 - Como pode se utilizar o modelo da arena?  
+     4 - Como pode contornar a falta de autorização?  
+  * O que é?  
+     5 - O que é a arena da K4-04?  
+     6 - O que são os testes realizados?  
+  * Pode ser feito da maneira?  
+     7 - Como podem ser feitos os testes?  
+     8 - Como pode ser utilizada a sala e a arena?  
+  * Faz parte de?  
+     9 - A quem a arena pertence?  
+     10 - Qual o grande foco de alunos que fazem parte do grupo que pode utilizar a sala?  
+  * Objetivo?  
+     11 - Qual o objetivo do interesse?  
+     12 - Qual o objetivo de testar os robôs?  
+  * Ambiente?  
+     13 - Onde está localizada a arena?  
+     14 - Quais alterações podem ser feitas?  
+  * Ator(es)?  
+     15 - Quem pode permitir o acesso à arena?  
+     16 - Quem possui o modelo da arena?  
+  * Planejamento?  
+     17 - Por que deseja acessar a arena?  
+     18 - Como deseja utilizar a arena?  
+  * Ação?  
+     19 - O que é realizado na arena?  
+     20 - O que o usuário pode realizar com a simulação?  
+  * Evento?  
+     21 - Quando se pode utilizar a sala?  
+     22 - Quando os alunos podem utilizar a sala sem uma autorização da instituição?  
+  * Avaliação?  
+     23 - Como os testes são avaliados?  
+     24 - Como é avaliado quem pode utilizar a sala?  
+
+     <!--
+      * O professor Edson Adalberto é um professor que trabalha muito com robôs, o professor estava pensando em um plano de aulas com exemplos mais práticos, para isso o mesmo decidiu utilizar a sala da K4-04 onde existe uma arena que o mesmo pode utilizar, esta arena tem uma base pronta, mas pode ser alterada pelo usuário com a adição de placas que funcionariam como paredes para dificultar a locomoção de um robô, mas o mesmo encontrou um problema que seria o justamente o desenvolvimento da arena, para desenvolver labirintos para serem utilizados na aula, o mesmo precisa estar no campus e montar e desmontar a arena diversas vezes até encontrar uma arena que cumpra os requisitos que o mesmo deseja.
+    -->
 * **Persona: Edson Adalberto.**
-  * Por que?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Como?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * O que é?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Pode ser feito da maneira?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Faz parte de?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Objetivo?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Ambiente?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Ator(es)?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Planejamento?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Ação?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Evento?
-    1. Quem pode realizar os testes?
-    2.  a?
-  * Avaliação?
-    1. Quem pode realizar os testes?
-    2.  a?  
+  * Por quê?  
+     1 - Por que utilizar a sala?  
+     2 - Por que utilizar a arena da K4-04?  
+  * Como?  
+     3 - Como Edson planeja melhorar suas aulas?  
+     4 - Como a arena pode ser editada?  
+  * O que é?  
+     5 - Qual a dificuldade em montar as arenas?  
+     6 - ?  
+  * Pode ser feito da maneira?  
+     7 - Como Edson planeja tornar as aulas mais dinâmicas?  
+     8 - Como as arenas são montadas atualmente?  
+  * Faz parte de?  
+     9 - Por que Edson pode utilizar a sala K4-04 livremente?  
+     10 - Qual aula é ministrada por Edson?  
+  * Objetivo?  
+     11 - Qual o objetivo de Edson em utilizar a sala?  
+     12 - ?  
+  * Ambiente?  
+     13 - Onde os testes serão realizados?  
+     14 - Quais obstaculos podem ser utilizados na arena?  
+  * Ator(es)?  
+     15 - Quais alunos poderão testar os robôs?  
+     16 - ?  
+  * Planejamento?  
+     17 - De que maneira é planejado que os alunos utilizem as arenas?  
+     18 - Como Edson planeja montar as arenas?  
+  * Ação?  
+     19 - De que maneira as arenas podem ser alteradas?  
+     20 - a?  
+  * Evento?  
+     21 - Por que Edson planeja realizar aulas mais dinâmicas?  
+     22 - a?  
+  * Avaliação?  
+     23 - Como Edson pode saber que uma arena está bem feita?  
+     24 - Como é definido que um robô concluiu uma arena?  
+    
 * **Persona: Kelly do Nascimento.**
-  * Por que?
-    1. Porque ela prefere fazer o simulado?
-    2. Porque a IC dela é melhorar o robô desenvolvido por outro aluno?
-  * Como?
-    1. Que ferramentas ela está utilizando?
-    2. Como que ela está desenvolvendo atualmente?
-  * O que é?
-    1. Oque exatamente é essa IC?
-    2. Que melhoria é procurada neste robô?
-  * Pode ser feito da maneira?
-    1. Quais as opções que ela possui para teste?
-    2. Os métodos utilizados são os melhores disponíveis?
-  * Faz parte de?
-    1. Ela faz parte do curso de robótica?
-    2. O aluno mencionado é do curso de robótica?
-  * Objetivo?
-    1. Qual a métrica de sucesso na melhoria?
-    2. Qual o objetivo por trás de utilizar as arenas? 
-  * Ambiente?
-    1. O acesso na K4-04 é a qualquer hora?
-    2. Ela possui equipamento para desenvolver o projeto em casa?
-  * Ator(es)?
-    1. Quem é o outro aluno?
-    2. Quem é o professor?
-  * Planejamento?
-    1. A proposta da IC não considerava como seria feito os testes?
-    2. O outro aluno (desenvolvedor do robô) não está envolvido no planejamento?
-  * Ação?
-    1. Como que ela está lidando com essa pressão?
-    2. Ela já pediu por ajuda?
-  * Evento?
-    1. Esses problemas já foram discutidos no encontro com o orientador?
-    2. Quando será a entrega da IC dela?
-  * Avaliação?
-    1. Ela sabe avaliar o progresso atual da IC?
-    2. Como está o progresso atual dela?  
+  * Por quê?  
+     1 - Por que ela prefere fazer o simulado?  
+     2 - Por que a IC dela é melhorar o robô desenvolvido por outro aluno?  
+  * Como?  
+     3 - Que ferramentas ela está utilizando?  
+     4 - Como ela está desenvolvendo atualmente?  
+  * O que é?  
+     5 - O que exatamente é essa IC?  
+     6 - Que melhoria é procurada neste robô?  
+  * Pode ser feito da maneira?  
+     7 - Quais as opções que ela possui para teste?  
+     8 - Os métodos utilizados são os melhores disponíveis?  
+  * Faz parte de?  
+     9 - Ela faz parte do curso de robótica?  
+     10 - O aluno mencionado é do curso de robótica?  
+  * Objetivo?  
+     11 - Qual a métrica de sucesso na melhoria?  
+     12 - Qual o objetivo por trás de utilizar as arenas?  
+  * Ambiente?  
+     13 - O  acesso na K4-04 é a qualquer hora?  
+     14 - Ela possui equipamento para desenvolver o projeto em casa?  
+  * Ator(es)?  
+     15 - Quem é o outro aluno?  
+     16 - Quem é o professor?  
+  * Planejamento?  
+     17 - A proposta da IC não considerava como seriam feitos os testes?  
+     18 - O outro aluno (desenvolvedor do robô) não está envolvido no planejamento?  
+  * Ação?  
+     19 - Como ela está lidando com essa pressão?  
+     20 - Ela já pediu por ajuda?  
+  * Evento?  
+     21 - Esses problemas já foram discutidos no encontro com o orientador?  
+     22 - Quando será a entrega da IC dela?  
+  * Avaliação?  
+     23 - Ela sabe avaliar o progresso atual da IC?  
+     24 - Como está o progresso atual dela?  
+
 # Refinamento do Cenário Análise/Problema
 * **Persona: Robervaldo Arantes.**
 * **Persona: Edson Adalberto.**
 * **Persona: Kelly do Nascimento.**
-  * Kelly do nascimento, aluna no 6o Semestre do curso de engenharia de robôs, já está na metade (6 meses) da sua IC "Aprimoramento de algoritmo de rotas", que é sobre a melhoria do algoritmo de rotas atualmente sendo utilizado no robô de Luciano, aluno no 8o Semestre do curso de engenharia de robôs, o qual possui sua própria IC "Otimização de visão computacional utilizando IAs generativas", os dois se conhecem e decidiram fazer ICs que se complementam. A IC da Kelly tem como meta aprimorar o algoritmo atual de rotas em 10%, ou analizar partes do algoritmo que podem ser otimizados/refatorados para ter melhoria.
-        
-    Kelly tem acesso ao robô e à sala K4-04 nas segundas e terças durante os horários onde a sala não tem aula. A sala dispõe de uma arena que ela utiliza para os seus testes, ela também conseguiu o modelo do mapa da arena para possivelmente fazer testes simulados para complementar os 3 dias que ela não possui acesso ao robô ou à sala. Mas Kelly está preocupada: Ela conseguiu um estágio recentemente, a fazendo ter pouco tempo para dedicar à IC, e está com medo de não conseguir terminar a tempo!
-     
-    Kelly discutiu com seu Orientador, Pedro, sobre oque ela conseguiria fazer sobre isso, ela estava um pouco adiantada quanto ao cronograma, mas o ritmo dela havia caído dramaticamente desde o começo de seu estágio. O orientador mencionou que na IC estava descrito as melhores formas de fazer testes simulados utilizando Gazebo Classic para adiantar o máximo possível em casa, via testes simulados, ao invés de testes na sala K4-04 em caso da sala ficar indisponível por bastante tempo. Ela conseguiu instalar as ferramentas e rodar o mapa simulado na sua máquina em casa, e conseguiu ir adiantando sua IC de forma simulada, acumulando arenas e hipóteses para confirmar no físico de um vez, ajudando ela a usar seu tempo de forma efetiva. Mas quando foi para testar as suas arenas simuladas no físico, ela percebeu que as arenas que ela criou no simulado eram impossíveis de replicar fielmente no real! As posições das paredes na arena real são padronizadas, algo que ela não levou em conta quando montou suas arenas simuladas, então agora irá ter que refazer não só as arenas mas também os testes.     
+  
+  Kelly do nascimento, aluna no 6⁠º Semestre do curso de engenharia de robôs, já está na metade (6 meses) da sua IC "Aprimoramento de algoritmo de rotas", que é sobre a melhoria do algoritmo de rotas sendo atualmente utilizado no robô de Luciano, aluno no 8⁠º Semestre do curso de engenharia de robôs, o qual possui sua própria IC "Otimização de visão computacional utilizando IAs generativas", os dois se conhecem e decidiram fazer ICs que se complementam. A IC da Kelly tem como meta aprimorar o algoritmo atual de rotas em 10%, ou analisar partes do algoritmo que podem ser otimizados/refatorados para ter melhoria.
+
+  Kelly tem acesso ao robô e à sala K4-04 nas segundas e terças durante os horários onde a sala não tem aula. A sala dispõe de uma arena que ela utiliza para os seus testes, ela também conseguiu o modelo do mapa da arena para possivelmente fazer testes simulados para complementar os 3 dias que ela não possui acesso ao robô ou à sala. Mas Kelly está preocupada: Ela conseguiu um estágio recentemente, a fazendo ter pouco tempo para dedicar à IC, e está com medo de não conseguir terminar a tempo!
+
+  Kelly discutiu com seu Orientador, Pedro, sobre o que ela conseguiria fazer sobre isso. Ela estava um pouco adiantada quanto ao cronograma, mas o ritmo dela havia caído dramaticamente desde o começo de seu estágio. O orientador mencionou que na IC estavam descritas as melhores formas de fazer testes simulados utilizando Gazebo Classic para adiantar o máximo possível em casa, via testes simulados, ao invés de testes na sala K4-04 em caso da sala ficar indisponível por bastante tempo. Ela conseguiu instalar as ferramentas e rodar o mapa simulado na sua máquina em casa, e conseguiu ir adiantando sua IC de forma simulada, acumulando arenas e hipóteses para confirmar no físico de uma vez, ajudando-a a usar seu tempo de forma efetiva. Mas quando foi para testar as suas arenas simuladas no físico, ela percebeu que as arenas que ela criou no simulado eram impossíveis de replicar fielmente no real! As posições das paredes na arena real são padronizadas, algo que ela não levou em conta quando montou suas arenas simuladas, então agora irá ter que refazer não só as arenas, mas também os testes.     
