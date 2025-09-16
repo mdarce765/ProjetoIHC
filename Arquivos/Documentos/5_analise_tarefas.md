@@ -9,7 +9,7 @@
 4. --?--
 
 ## HTA
-### a
+### 1 - Botões para inserir paredes
 A parte visual terá botões, igual às possíveis paredes na arena, junto de uma imagem em overlay, para deixar mais fácil a visualização de como a arena final seria.  
 ```mermaid
 graph TD;
@@ -21,7 +21,7 @@ graph TD;
     id1-->id2;
     id1-->id3;
 ```
-### b  
+### 2 - Criação do mapa com as paredes selecionadas
 Levando em conta os botões selecionados na parte visual, será criada paredes nas posições correspondentes na arena.  
 ```mermaid
 graph TD;
@@ -35,11 +35,11 @@ graph TD;
     id1-->id3;
     id2-->id4;
 ```
-### c
-### d
+### 3 -
+### 4 -
 
 ## GOMS (Fazer KLM?)
-### a
+### 1 - Botões para inserir paredes
 - GOAL 0: Criar uma arena customizada, baseada em uma arena base.    
     - GOAL 1: Saber a aparência final da arena.   
         - METHOD 1.A: Visualizar a interface.  
@@ -50,13 +50,13 @@ graph TD;
       
 
         
-### b
+### 2 - Criação do mapa com as paredes selecionadas
 ### c
 ### d
 
 ## CTT
-### a
+### 1 - Botões para inserir paredes
 ABS - Criar arena customizada -> (USR - Decidir que paredes devem ser inseridas >> USR-SYS Clicar nos botões aonde deseja que as paredes estejam >> USR-SYS Clicar em salvar []>> Salvar os botões selecionados)  
-### b
+### 2 - Criação do mapa com as paredes selecionadas
 ### c
 ### d
