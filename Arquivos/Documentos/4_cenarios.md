@@ -1,6 +1,6 @@
 # Cenário de Análise/Problema
 
-<!-->> **_NOTE:_**: A equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.
+<!-- -> **_NOTE:_**: A equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.
 -->
 ## Qualidade de uso
 - Usabilidade:
@@ -225,7 +225,7 @@
 <!--
 * **Persona: Kelly do Nascimento.**
 * Por quê?  
-   1 - Por que ela prefere fazer o simulado?  
+   1 - Por que ela prefere fazer o simulado?  *
    2 - Por que a IC dela é melhorar o robô desenvolvido por outro aluno?  
 * Como?  
    3 - Que ferramentas ela está utilizando?  
@@ -235,13 +235,13 @@
    6 - Que melhoria é procurada neste robô?  
 * Pode ser feito da maneira?  
    7 - Quais as opções que ela possui para teste?  
-   8 - Os métodos utilizados são os melhores disponíveis?  
+   8 - Os métodos utilizados são os melhores disponíveis?  *
 * Faz parte de?  
    9 - Ela faz parte do curso de robótica?  
    10 - O aluno mencionado é do curso de robótica?  
 * Objetivo?  
-   11 - Qual a métrica de sucesso na melhoria?  
-   12 - Qual o objetivo por trás de utilizar as arenas?  
+   11 - Qual a métrica de sucesso na melhoria?  *
+   12 - Qual o objetivo por trás de utilizar as arenas?  *
 * Ambiente?  
    13 - O  acesso na K4-04 é a qualquer hora?  
    14 - Ela possui equipamento para desenvolver o projeto em casa?  
@@ -250,7 +250,7 @@
    16 - Quem é o professor?  
 * Planejamento?  
    17 - A proposta da IC não considerava como seriam feitos os testes?  
-   18 - O outro aluno (desenvolvedor do robô) não está envolvido no planejamento?  
+   18 - O outro aluno (desenvolvedor do robô) não está envolvido no planejamento?  *
 * Ação?  
    19 - Como ela está lidando com essa pressão?  
    20 - Ela já pediu por ajuda?  
@@ -259,11 +259,7 @@
    22 - Quando será a entrega da IC dela?  
 * Avaliação?  
    23 - Ela sabe avaliar o progresso atual da IC?  
-   24 - Como está o progresso atual dela?
+   24 - Como está o progresso atual dela? 
   -->  
 * **Persona: Kelly do Nascimento.**
-   * Kelly do nascimento, aluna no 6⁠º Semestre do curso de engenharia de robôs, já está na metade (6 meses) da sua IC "Aprimoramento de algoritmo de rotas", que é sobre a melhoria do algoritmo de rotas sendo atualmente utilizado no robô de Luciano, aluno no 8⁠º Semestre do curso de engenharia de robôs, o qual possui sua própria IC "Otimização de visão computacional utilizando IAs generativas", os dois se conhecem e decidiram fazer ICs que se complementam. A IC da Kelly tem como meta aprimorar o algoritmo atual de rotas em 10%, ou analisar partes do algoritmo que podem ser otimizados/refatorados para ter melhoria.
-       
-     Kelly tem acesso ao robô e à sala K4-04 nas segundas e terças durante os horários onde a sala não tem aula. A sala dispõe de uma arena que ela utiliza para os seus testes, ela também conseguiu o modelo do mapa da arena para possivelmente fazer testes simulados para complementar os 3 dias que ela não possui acesso ao robô ou à sala. Mas Kelly está preocupada: Ela conseguiu um estágio recentemente, a fazendo ter pouco tempo para dedicar à IC, e está com medo de não conseguir terminar a tempo!
-         
-     Kelly discutiu com seu Orientador, Pedro, sobre o que ela conseguiria fazer sobre isso. Ela estava um pouco adiantada quanto ao cronograma, mas o ritmo dela havia caído dramaticamente desde o começo de seu estágio. O orientador mencionou que na IC estavam descritas as melhores formas de fazer testes simulados utilizando Gazebo Classic para adiantar o máximo possível em casa, via testes simulados, ao invés de testes na sala K4-04 em caso da sala ficar indisponível por bastante tempo. Ela conseguiu instalar as ferramentas e rodar o mapa simulado na sua máquina em casa, e conseguiu ir adiantando sua IC de forma simulada, acumulando arenas e hipóteses para confirmar no físico de uma vez, ajudando-a a usar seu tempo de forma efetiva. Mas quando foi para testar as suas arenas simuladas no físico, ela percebeu que as arenas que ela criou no simulado eram impossíveis de replicar fielmente no real! As posições das paredes na arena real são padronizadas, algo que ela não levou em conta quando montou suas arenas simuladas, então agora irá ter que refazer não só as arenas, mas também os testes.     
+   * Kelly do nascimento, aluna no 6⁠º Semestre do curso de engenharia de robôs **[9]**, já está na metade (6 meses) da sua IC **[22]** "Aprimoramento de algoritmo de rotas", que é sobre a melhoria do algoritmo de rotas **[5]** sendo atualmente utilizado no robô de Luciano, aluno no 8⁠º Semestre do curso de engenharia de robôs **[10]** **[15]**, o qual possui sua própria IC "Otimização de visão computacional utilizando IAs generativas", os dois se conhecem e decidiram fazer ICs que se complementam **[2]**. A IC da Kelly tem como meta aprimorar o algoritmo atual de rotas em 10%, ou analisar partes do algoritmo que podem ser otimizados/refatorados para ter melhoria **[6]**. Kelly tem acesso ao robô e à sala K4-04 nas segundas e terças durante os horários onde a sala não tem aula **[13]**. A sala dispõe de uma arena que ela utiliza para os seus testes, ela também conseguiu o modelo do mapa da arena para possivelmente fazer testes simulados **[7]** para complementar os 3 dias que ela não possui acesso ao robô ou à sala **[14]**. Mas Kelly está preocupada: Ela conseguiu um estágio recentemente, a fazendo ter pouco tempo para dedicar à IC, e está com medo de não conseguir terminar a tempo! Kelly discutiu com seu Orientador, Pedro **[16]** **[20]** **[21]**, sobre o que ela conseguiria fazer sobre isso. Ela estava um pouco adiantada quanto ao cronograma  **[23]** **[24]**, mas o ritmo dela havia caído dramaticamente desde o começo de seu estágio. O orientador mencionou que na IC estavam descritas as melhores formas de fazer testes simulados utilizando Gazebo Classic **[3]** para adiantar o máximo possível em casa, via testes simulados, ao invés de testes na sala K4-04 em caso da sala ficar indisponível por bastante tempo  **[17]** **[19]**. Ela conseguiu instalar as ferramentas e rodar o mapa simulado na sua máquina em casa **[4]**, e conseguiu ir adiantando sua IC de forma simulada, acumulando arenas e hipóteses para confirmar no físico de uma vez, ajudando-a a usar seu tempo de forma efetiva. Mas quando foi para testar as suas arenas simuladas no físico, ela percebeu que as arenas que ela criou no simulado eram impossíveis de replicar fielmente no real! As posições das paredes na arena real são padronizadas, algo que ela não levou em conta quando montou suas arenas simuladas, então agora irá ter que refazer não só as arenas, mas também os testes.     
