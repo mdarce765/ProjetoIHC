@@ -52,6 +52,7 @@ Se pode criar uma arena customizada utilizando cliques, selecionando as paredes 
 
         
 ### 2 - Criação do mapa com as paredes selecionadas  
+Obter o arquivo do mapa customizado, utilizando a interface de seleção de paredes.  
 - GOAL 0: Obter o mapa gerado, baseado nos botões pressionados e da arena base.  
   - METHOD 0.A: Criar um mapa baseado nas paredes salvas.  
       - METHOD 0.A.1: Abrir a interface de seleção de paredes.  
