@@ -40,6 +40,7 @@ graph TD;
 
 ## GOMS (Fazer KLM?)
 ### 1 - Botões para inserir paredes
+Se pode criar uma arena customizada utilizando cliques, selecionando as paredes que serão colocadas, facilitando a criação e também uma "pré-visualização" da nova arena.  
 - GOAL 0: Criar uma arena customizada, baseada em uma arena base.    
     - GOAL 1: Saber a aparência final da arena.   
         - METHOD 1.A: Visualizar a interface.  
