@@ -51,12 +51,12 @@ graph TD;
 
         
 ### 2 - Criação do mapa com as paredes selecionadas
-### c
-### d
+### 3 -
+### 4 -
 
 ## CTT
 ### 1 - Botões para inserir paredes
 ABS - Criar arena customizada -> (USR - Decidir que paredes devem ser inseridas >> USR-SYS Clicar nos botões aonde deseja que as paredes estejam >> USR-SYS Clicar em salvar []>> Salvar os botões selecionados)  
 ### 2 - Criação do mapa com as paredes selecionadas
-### c
-### d
+### 3 -
+### 4 -
