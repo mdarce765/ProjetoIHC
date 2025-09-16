@@ -10,6 +10,14 @@
 
 ## HTA
 ### a
+```mermaid
+graph TD;
+    id1[0- Salvar botões selecionados <br>1+2]
+    id2[1.1- Overlay da imagem do mapa]
+    id3[1.2- Posicionar botões]
+    id1-->id2;
+    id1-->id3;
+```
 ### b
 ### c
 ### d
