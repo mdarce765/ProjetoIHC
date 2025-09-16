@@ -168,17 +168,17 @@
      17 - Por que deseja acessar a arena?  
      18 - Como deseja utilizar a arena?  
   * Ação?  
-     19 - O que é realizado na arena?  
+     19 - O que é realizado na arena?  *
      20 - O que o usuário pode realizar com a simulação?  
   * Evento?  
-     21 - Quando se pode utilizar a sala?  
-     22 - Quando os alunos podem utilizar a sala sem uma autorização da instituição?  
+     21 - Quando se pode utilizar a sala?  *
+     22 - Quando os alunos podem utilizar a sala sem uma autorização da instituição?  *
   * Avaliação?  
-     23 - Como os testes são avaliados?  
-     24 - Como é avaliado quem pode utilizar a sala?  
+     23 - Como os testes são avaliados?  *
+     24 - Como é avaliado quem pode utilizar a sala?  *
      -->
 * **Persona: Robervaldo Arantes.**
-  * Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI, o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados na sala K4-04, o mesmo possui um interesse em adiantar o entendimento sobre matérias e conteudos futuros que envolvam testes realizados com robôs [1] para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala no momento as quais limitam muito o acesso de Robervaldo [2]. Para tentar contornar isso, Robervaldo conseguiu um modelo da Arena da sala [4] para utilizar em algum simulador [3], mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
+  * Robervaldo Arantes é um estudante que recém ingressou no curso de engenharia de robôs, na instituição da FEI [9], o mesmo ficou sabendo sobre uma arena onde testes com robôs podem ser realizados [7] na sala K4-04 [13], a mesma é uma arena que possui diversos pontos onde paredes podem ser posicionadas [14] para formarem diferentes labirintos [5], para assim entender cada vez mais sobre como utilizá-los e estudá-los [12] e com esses labirintos, testes de locomoção, desempenho, etc. podem ser realizados [6], o mesmo possui um interesse [17] em adiantar o entendimento sobre matérias e conteúdos futuros que envolvam testes realizados com robôs [1] [11] para utilizar a sala, é necessária uma autorização da instituição ou do professor que estiver utilizando a sala [15], geralmente que são aulas de engenharia [10], no momento [8] as quais limitam muito o acesso de Robervaldo [2]. Para tentar contornar isso, Robervaldo conseguiu com um veterano que utiliza a sala [16] um modelo simulado da Arena [4] que o mesmo recebeu de seu professor [16] para utilizar em algum simulador [3] e realizar os seus próprios testes [20], mas o mesmo não sabe sobre os obstáculos que podem ser implementados, tornando o uso da mesma, confuso e complicado.
     
 <!--
 * **Persona: Edson Adalberto.**
