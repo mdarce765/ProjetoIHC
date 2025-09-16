@@ -10,15 +10,28 @@
 
 ## HTA
 ### a
+A parte visual terá botões, igual às possíveis paredes na arena, junto de uma imagem em overlay, para deixar mais fácil a visualização de como a arena final seria.  
 ```mermaid
 graph TD;
+
     id1[0- Salvar botões selecionados <br>1+2]
     id2[1.1- Overlay da imagem do mapa]
     id3[1.2- Posicionar botões]
     id1-->id2;
     id1-->id3;
 ```
-### b
+### b  
+Levando em conta as os botões selecionados na parte visual, será criada paredes nas posições correspondentes na arena.  
+```mermaid
+graph TD;
+    
+    id1[0- Salvar modelo com as novas paredes <br>1+2]
+    id2[1- Inserir paredes nas posições correspondentes na arena]
+    id3[2- Relacionar botões com posições na arena]
+    
+    id1-->id2;
+    id1-->id3;
+```
 ### c
 ### d
 
