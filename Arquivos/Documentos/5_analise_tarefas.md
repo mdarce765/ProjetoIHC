@@ -56,6 +56,7 @@ graph TD;
 
 ## CTT
 ### 1 - Botões para inserir paredes
+Para Criar uma arena customizada, o usuário precisa primeiro decidir as paredes que devem ser inseridas, selecioná-las e depois clicar em salvar.  
 ABS - Criar arena customizada -> (USR - Decidir que paredes devem ser inseridas >> USR-SYS Clicar nos botões aonde deseja que as paredes estejam >> USR-SYS Clicar em salvar []>> Salvar os botões selecionados)  
 ### 2 - Criação do mapa com as paredes selecionadas
 ### 3 -
