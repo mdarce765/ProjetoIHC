@@ -66,7 +66,9 @@ Obter o arquivo do mapa customizado, utilizando a interface de seleção de pare
 ## CTT
 ### 1 - Botões para inserir paredes
 Para Criar uma arena customizada, o usuário precisa primeiro decidir as paredes que devem ser inseridas, selecioná-las e depois clicar em salvar.  
-ABS - Criar arena customizada -> (USR - Decidir que paredes devem ser inseridas >> USR-SYS Clicar nos botões aonde deseja que as paredes estejam >> USR-SYS Clicar em salvar []>> Salvar os botões selecionados)  
+ABS - Criar arena customizada -> (USR - Decidir que paredes devem ser inseridas >> USR-SYS - Clicar nos botões aonde deseja que as paredes estejam >> USR-SYS - Clicar em salvar []>> Salvar os botões selecionados)  
 ### 2 - Criação do mapa com as paredes selecionadas
+Para utilizar uma arena customizada, o usuário precisa criar a arena, e depois a carregar 
+ABS - Utilizar arena customizada -> (ABS - Criar arena customizada) []>> USR-SYS - Pressionar o botão de Criar Mapa []>> USR-SYS - Carregar mapa em um simulador 
 ### 3 -
 ### 4 -
