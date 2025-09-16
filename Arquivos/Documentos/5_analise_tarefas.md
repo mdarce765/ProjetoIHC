@@ -29,7 +29,7 @@ graph TD;
     id1[0- Salvar modelo com as paredes nas posições dos botões <br>1+2+3]
     id2[1.1- Inserir paredes em posições específicas na arena]
     id3[1.2- Relacionar botões com posições na arena]
-    id4[2- Adquirir modelo da arena base]
+    id4[1.3- Adquirir modelo da arena base]
     
     id1-->id2;
     id1-->id3;
