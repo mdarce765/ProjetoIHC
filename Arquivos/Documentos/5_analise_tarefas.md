@@ -40,7 +40,6 @@ graph TD;
 
 ## GOMS (Fazer KLM?)
 ### a
-- 
 - GOAL 0: Criar interface para seleção de botões, a fim de criar uma arena customizada, baseada em uma arena base    
     - GOAL 1: Saber a aparência final da arena   
         - METHOD 1.A: Visualizar a interface  
