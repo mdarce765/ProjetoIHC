@@ -26,14 +26,14 @@ Levando em conta os botões selecionados na parte visual, será criada paredes n
 ```mermaid
 graph TD;
     
-    id1[0- Salvar modelo com as paredes nas posições dos botões <br>1+2]
+    id1[0- Salvar modelo com as paredes nas posições dos botões <br>1+2+3]
     id2[1.1- Inserir paredes em posições específicas na arena]
     id3[1.2- Relacionar botões com posições na arena]
     id4[2- Adquirir modelo da arena base]
     
     id1-->id2;
     id1-->id3;
-    id2-->id4;
+    id1-->id4;
 ```
 ### 3 -
 ### 4 -
@@ -41,10 +41,8 @@ graph TD;
 ## GOMS (Fazer KLM?)
 ### 1 - Botões para inserir paredes
 Se pode criar uma arena customizada utilizando cliques, selecionando as paredes que serão colocadas, facilitando a criação e também uma "pré-visualização" da nova arena.  
-- GOAL 0: Criar uma arena customizada, baseada em uma arena base.    
-    - GOAL 1: Saber a aparência final da arena.   
-        - METHOD 1.A: Visualizar a interface.  
-    - GOAL 2: Adicionar/Remover paredes extras.    
+- GOAL 0: Criar uma arena customizada, baseada em uma arena base.     
+    - GOAL 1: Adicionar/Remover ou editar paredes extras.    
         - METHOD 2.A: Clicar nos botões onde se deseja adicionar/remover paredes.  
           (SELECTION RULE: Caso a parede esteja longe/preferência)  
         - METHOD 2.B: Selecionar as paredes utilizando setas e Enter  
@@ -62,8 +60,8 @@ Se pode criar uma arena customizada utilizando cliques, selecionando as paredes 
 ### 2 - Criação do mapa com as paredes selecionadas  
 Obter o arquivo do mapa customizado, utilizando a interface de seleção de paredes.  
 - GOAL 0: Obter o mapa gerado, baseado nos botões pressionados e da arena base.  
-  - METHOD 0.A: Criar um mapa baseado nas paredes salvas.
-    (SELECTION RULE: 
+  - METHOD 0.A: Criar um mapa baseado nas paredes salvas.  
+    (SELECTION RULE: Preferência)   
       - METHOD 0.A.1: Abrir a interface de seleção de paredes.  
       - METHOD 0.A.2: Selecionar paredes até estar satisfeito.  
       - METHOD 0.A.3: Salvar as paredes selecionadas.  
