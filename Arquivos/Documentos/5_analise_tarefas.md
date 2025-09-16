@@ -14,9 +14,10 @@ A parte visual terá botões, igual às possíveis paredes na arena, junto de um
 ```mermaid
 graph TD;
 
-    id1[0- Salvar botões selecionados <br>1+2]
+    id1[0- Salvar botões selecionados <br>1+2+3]
     id2[1.1- Overlay da imagem do mapa]
     id3[1.2- Posicionar botões]
+    
     id1-->id2;
     id1-->id3;
 ```
@@ -25,18 +26,21 @@ Levando em conta as os botões selecionados na parte visual, será criada parede
 ```mermaid
 graph TD;
     
-    id1[0- Salvar modelo com as novas paredes <br>1+2]
-    id2[1- Inserir paredes nas posições correspondentes na arena]
-    id3[2- Relacionar botões com posições na arena]
+    id1[0- Salvar modelo com as paredes nas posições dos botões <br>1+2]
+    id2[1.1- Inserir paredes em posições específicas na arena]
+    id3[1.2- Relacionar botões com posições na arena]
+    id4[2- Adquirir modelo da arena base]
     
     id1-->id2;
     id1-->id3;
+    id2-->id4;
 ```
 ### c
 ### d
 
-## GOMS
+## GOMS (Fazer KLM?)
 ### a
+GOAL 0: Criar interface para seleção de botões, a fim de customizar uma arena base
 ### b
 ### c
 ### d
