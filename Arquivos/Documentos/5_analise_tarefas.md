@@ -44,20 +44,29 @@ Se pode criar uma arena customizada utilizando cliques, selecionando as paredes 
 - GOAL 0: Criar uma arena customizada, baseada em uma arena base.    
     - GOAL 1: Saber a aparência final da arena.   
         - METHOD 1.A: Visualizar a interface.  
-    - GOAL 2: Adicionar/Remover paredes extras.  
-        - METHOD 2.A: Clicar nos botões onde se deseja adicionar/remover paredes.
-    - GOAL 3: Salvar arena customizada.
+    - GOAL 2: Adicionar/Remover paredes extras.    
+        - METHOD 2.A: Clicar nos botões onde se deseja adicionar/remover paredes.  
+          (SELECTION RULE: Caso a parede esteja longe/preferência)  
+        - METHOD 2.B: Selecionar as paredes utilizando setas e Enter  
+          (SELECTION RULE: Caso a parede estja perto/preferência)  
+          - METHOD 2.B.1: Movimentar entre as paredes usando as setas do teclado  
+          - METHOD 2.B.2: Adicionar/Remover parede selecionada utilizando a tecla Enter  
+    - GOAL 3: Salvar arena customizada.  
         - METHOD 3.A: Clicar no botão de salvar.  
+          (SELECTION RULE: Preferência)    
+        - METHOD 3.B: Usar atalho Control+S.  
+          (SELECTION RULE: Comando rápido)  
       
 
         
 ### 2 - Criação do mapa com as paredes selecionadas  
 Obter o arquivo do mapa customizado, utilizando a interface de seleção de paredes.  
 - GOAL 0: Obter o mapa gerado, baseado nos botões pressionados e da arena base.  
-  - METHOD 0.A: Criar um mapa baseado nas paredes salvas.  
+  - METHOD 0.A: Criar um mapa baseado nas paredes salvas.
+    (SELECTION RULE: 
       - METHOD 0.A.1: Abrir a interface de seleção de paredes.  
-      - METHOD 0.A.2: Clicar em paredes até estar satisfeito.  
-      - METHOD 0.A.3: Clicar em Salvar.  
+      - METHOD 0.A.2: Selecionar paredes até estar satisfeito.  
+      - METHOD 0.A.3: Salvar as paredes selecionadas.  
       - METHOD 0.A.4: Clicar em Criar Mapa.  
     
 ### 3 -
