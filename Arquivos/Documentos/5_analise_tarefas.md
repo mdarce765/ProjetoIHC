@@ -69,6 +69,9 @@ Obter o arquivo do mapa customizado, utilizando a interface de seleção de pare
     
 ### 3 - Importar arena
 ### 4 - Aplicar zoom
+- **Goal 0**: Aplicar Zoom em textos ou na própria arena.
+  - **METHOD 0.A**: Utilizar a roda do mouse.
+  - **METHOD 0.B**: Utilizar o ícone presente na interface.
 
 ## CTT
 ### 1 - Botões para inserir paredes
