@@ -5,8 +5,8 @@
 ## Funcionalidades
 1. Botões para inserir paredes  
 2. Criação do mapa com as paredes selecionadas  
-3. Aplicar zoom
-4. --?--
+3. Importar arena
+4. Aplicar zoom
 
 ## HTA
 ### 1 - Botões para inserir paredes
@@ -35,8 +35,8 @@ graph TD;
     id1-->id3;
     id1-->id4;
 ```
-### 3 -
-### 4 -
+### 3 - Importar arena
+### 4 - Aplicar zoom
 
 ## GOMS
 ### 1 - Botões para inserir paredes
@@ -67,8 +67,8 @@ Obter o arquivo do mapa customizado, utilizando a interface de seleção de pare
       - METHOD 0.A.3: Salvar as paredes selecionadas.  
       - METHOD 0.A.4: Clicar em Criar Mapa.  
     
-### 3 -
-### 4 -
+### 3 - Importar arena
+### 4 - Aplicar zoom
 
 ## CTT
 ### 1 - Botões para inserir paredes
@@ -83,5 +83,5 @@ Para utilizar uma arena customizada, o usuário precisa criar a arena, e depois 
 ABS - Utilizar arena customizada -> (ABS - Criar arena customizada []>> USR-SYS - Pressionar o botão de Criar Mapa []>> SYS - Criar mapa baseado nas paredes selecionadas []>> USR-SYS - Carregar mapa em um simulador) 
 <img width="1068" height="333" alt="Screenshot 2025-09-17 at 15 14 18" src="https://github.com/user-attachments/assets/11477bee-a640-40cb-b023-02f7213691cd" />
 
-### 3 -
-### 4 -
+### 3 - Importar arena
+### 4 - Aplicar zoom
