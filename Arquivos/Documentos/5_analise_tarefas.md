@@ -5,7 +5,7 @@
 ## Funcionalidades
 1. Botões para inserir paredes  
 2. Criação do mapa com as paredes selecionadas  
-3. --Acessibilidade--
+3. Aplicar zoom
 4. --?--
 
 ## HTA
