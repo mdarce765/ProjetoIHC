@@ -81,5 +81,7 @@ ABS - Criar arena customizada -> (USR - Decidir que paredes devem ser inseridas 
 ### 2 - Criação do mapa com as paredes selecionadas
 Para utilizar uma arena customizada, o usuário precisa criar a arena, e depois a carregar    
 ABS - Utilizar arena customizada -> (ABS - Criar arena customizada []>> USR-SYS - Pressionar o botão de Criar Mapa []>> SYS - Criar mapa baseado nas paredes selecionadas []>> USR-SYS - Carregar mapa em um simulador) 
+<img width="1068" height="333" alt="Screenshot 2025-09-17 at 15 14 18" src="https://github.com/user-attachments/assets/11477bee-a640-40cb-b023-02f7213691cd" />
+
 ### 3 -
 ### 4 -
