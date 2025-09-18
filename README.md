@@ -30,7 +30,7 @@ Este público alvo deseja realizar testes de maneira rápida e fácil, quanto me
 - [Personas](Arquivos/Documentos/3_personas.md)
 - [Cenário de Análise/Problema](Arquivos/Documentos/4_cenarios.md)
 - [Análide de Tarefas](Arquivos/Documentos/5_analise_tarefas.md)
-- [Prototipação em Papel](Arquivos/Documentos)
+- [Prototipação em Papel](Arquivos/Documentos/6_prototipacao.md)
 - [Coleta de Dados](Arquivos/Documentos)
 - [Ciclo de vida da engenharia de usabilidade](Arquivos/Documentos)
 - [Modelo Conceitual](Arquivos/Documentos) 
