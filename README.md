@@ -31,14 +31,14 @@ Este público alvo deseja realizar testes de maneira rápida e fácil, quanto me
 - [Cenário de Análise/Problema](Arquivos/Documentos/4_cenarios.md)
 - [Análide de Tarefas](Arquivos/Documentos/5_analise_tarefas.md)
 - [Prototipação em Papel](Arquivos/Documentos/6_prototipacao.md)
-- [Coleta de Dados](Arquivos/Documentos)
-- [Ciclo de vida da engenharia de usabilidade](Arquivos/Documentos)
-- [Modelo Conceitual](Arquivos/Documentos) 
-- [MOLIC](Arquivos/Documentos)
-- [FIGMA](Arquivos/Documentos)
-- [Planejamento da Avaliação](Arquivos/Documentos)
-- [Avaliação de IHC através de Inspeção Heurística](Arquivos/Documentos)
-- [Avaliação de Usabilidade baseado em Observação do Usuário](Arquivos/Documentos)
+- [Coleta de Dados](Arquivos/Documentos/7_coleta_dados.md)
+- [Ciclo de vida da engenharia de usabilidade](Arquivos/Documentos/8_ciclo_vida.md)
+- [Modelo Conceitual](Arquivos/Documentos/9_modelo_conceitual.md) 
+- [MOLIC](Arquivos/Documentos/10_molic.md)
+- [FIGMA](Arquivos/Documentos/11_figma.md)
+- [Planejamento da Avaliação](Arquivos/Documentos/12_planejamento_avaliacao.md)
+- [Avaliação de IHC através de Inspeção Heurística](Arquivos/Documentos/13_heuristica.md)
+- [Avaliação de Usabilidade baseado em Observação do Usuário](Arquivos/Documentos/14_observacao_usuario.md)
 
 
 
