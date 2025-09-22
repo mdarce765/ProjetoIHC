@@ -63,25 +63,28 @@ graph TD;
     id2-->id2.1
     id2-->id2.2
 ```
+
 ### 4 - Aplicar zoom
 ```mermaid
 graph TD;
-    id0[0 - Aplicar zoom em uma area<br>1+2]
-    id1[1 - Utilizar a roda do mouse<br>1/2]
-    id2[2 - Utilizar botão pop-up da interface<br>1/2]
-    id1.1[1.1 - Rolar a roda do mouse para cima para aplicar zoom in<br>________________________]
-    id1.2[1.2 - Rolar a roda do mouse para baixo para aplicar zoom out<br>________________________]
-    id2.1[2.1 - Utilizar o botão '+' para aplicar zoom in<br>________________________]
-    id2.2[2.2 - Utilizar o botão '-' para aplicar zoom out<br>________________________]
+    id0[0 - Aplicar zoom em uma área<br>1+2]
 
-    id0-->id1
-    id0-->id2
+    id1[1 - Utilizar a roda do mouse<br>1/2]
+    id1.1[1.1 - Rolar a roda do mouse para cima para aplicar zoom-in<br>________________________]
+    id1.2[1.2 - Rolar a roda do mouse para baixo para aplicar zoom-out<br>________________________]
 
-    id1-->id1.1
-    id1-->id1.2
+    id2[2 - Utilizar botão pop-up da interface<br>1/2]
+    id2.1[2.1 - Utilizar o botão '+' para aplicar zoom in<br>________________________]
+    id2.2[2.2 - Utilizar o botão '-' para aplicar zoom out<br>________________________]
 
-    id2-->id2.1
-    id2-->id2.2
+    id0-->id1
+    id0-->id2
+
+    id1-->id1.1
+    id1-->id1.2
+
+    id2-->id2.1
+    id2-->id2.2
 ```
 
 ## GOMS
@@ -114,10 +117,30 @@ Obter o arquivo do mapa customizado, utilizando a interface de seleção de pare
       - METHOD 0.A.4: Clicar em Criar Mapa.  
     
 ### 3 - Importar arena
+  - **GOAL 0**: Importar arena para a interface.
+    - **METHOD 0.A:** Utilizar o botão 'Arquivo' da interface
+    **(SEL. RULE:** Falta de costume/conhecimento. **)**
+      - **OP 0.A.1:** Selecionar a opção de "Abrir Arquivo"
+        - **METHOD 0.A.1.A:** Selecionar arquivo
+        **(SEL. RULE:** Preferencia. **)**
+          - **OP 0.A.1.A.1:** Digitar o nome do arquivo
+          - **OP 0.A.1.A.2:** Selecionar o arquivo
+        
+
+    - **METHOD 0.B:** Utilizar comando do teclado
+    **(SEL. RULE:** Praticidade. **)**
+      - **OP 0.B.1:** Digitar o nome do arquivo
+      - **OP 0.B.2** Selecionar o arquivo
+
+    - **METHOD 0.C:** Inicializar pelo terminal
+    **(SEL. RULE:** Praticidade. **)**
+
 ### 4 - Aplicar zoom
-- **Goal 0**: Aplicar Zoom em textos ou na própria arena.
-  - **METHOD 0.A**: Utilizar a roda do mouse.
-  - **METHOD 0.B**: Utilizar o ícone presente na interface.
+- **GOAL 0**: Aplicar Zoom na interface.
+  - **METHOD 0.A:** Utilizar a roda do mouse.
+  **(SEL. RULE:** Praticidade. **)**
+  - **METHOD 0.B:** Utilizar o ícone presente na interface.
+  **(SEL. RULE:** Falta de costume/entendimento. **)**
 
 ## CTT
 ### 1 - Botões para inserir paredes
