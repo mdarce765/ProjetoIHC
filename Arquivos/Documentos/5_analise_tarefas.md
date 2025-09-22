@@ -35,8 +35,54 @@ graph TD;
     id1-->id3;
     id1-->id4;
 ```
+
 ### 3 - Importar arena
+```mermaid
+graph TD;
+    id0[0 - Importar arena para a interface<br>1+2+3]
+
+    id1[1 - Utilizar o botão 'Arquivo' da interface<br>1>2/3]
+    id1.1[1.1 - Selecionar a opção de abrir arquivo<br>________________________]
+    id1.2[1.2 - Digitar o nome do arquivo<br>________________________]
+    id1.3[1.3 - Selecionar o arquivo<br>________________________]
+
+    id2[2 - Utilizar atalho do teclado<br>1/2]
+    id2.1[2.1 - Digitar o nome do arquivo<br>________________________]
+    id2.2[2.2 - Selecionar o arquivo<br>________________________]
+
+    id3[3 - Inicializar a arena pelo terminal<br>________________________]
+
+    id0-->id1
+    id0-->id2
+    id0-->id3
+
+    id1-->id1.1
+    id1-->id1.2
+    id1-->id1.3
+
+    id2-->id2.1
+    id2-->id2.2
+```
 ### 4 - Aplicar zoom
+```mermaid
+graph TD;
+    id0[0 - Aplicar zoom em uma area<br>1+2]
+    id1[1 - Utilizar a roda do mouse<br>1/2]
+    id2[2 - Utilizar botão pop-up da interface<br>1/2]
+    id1.1[1.1 - Rolar a roda do mouse para cima para aplicar zoom in<br>________________________]
+    id1.2[1.2 - Rolar a roda do mouse para baixo para aplicar zoom out<br>________________________]
+    id2.1[2.1 - Utilizar o botão '+' para aplicar zoom in<br>________________________]
+    id2.2[2.2 - Utilizar o botão '-' para aplicar zoom out<br>________________________]
+
+    id0-->id1
+    id0-->id2
+
+    id1-->id1.1
+    id1-->id1.2
+
+    id2-->id2.1
+    id2-->id2.2
+```
 
 ## GOMS
 ### 1 - Botões para inserir paredes
