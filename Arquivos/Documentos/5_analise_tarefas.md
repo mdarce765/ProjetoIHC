@@ -118,28 +118,28 @@ Obter o arquivo do mapa customizado, utilizando a interface de seleção de pare
     
 ### 3 - Importar arena
   - **GOAL 0**: Importar arena para a interface.
-    - **METHOD 0.A:** Utilizar o botão 'Arquivo' da interface
+    - **METHOD 0.A:** Utilizar o botão 'Arquivo' da interface  
     **(SEL. RULE:** Falta de costume/conhecimento. **)**
       - **OP 0.A.1:** Selecionar a opção de "Abrir Arquivo"
-        - **METHOD 0.A.1.A:** Selecionar arquivo
+        - **METHOD 0.A.1.A:** Selecionar arquivo  
         **(SEL. RULE:** Preferencia. **)**
           - **OP 0.A.1.A.1:** Digitar o nome do arquivo
           - **OP 0.A.1.A.2:** Selecionar o arquivo
         
 
-    - **METHOD 0.B:** Utilizar comando do teclado
+    - **METHOD 0.B:** Utilizar comando do teclado  
     **(SEL. RULE:** Praticidade. **)**
       - **OP 0.B.1:** Digitar o nome do arquivo
       - **OP 0.B.2** Selecionar o arquivo
 
-    - **METHOD 0.C:** Inicializar pelo terminal
+    - **METHOD 0.C:** Inicializar pelo terminal  
     **(SEL. RULE:** Praticidade. **)**
 
 ### 4 - Aplicar zoom
 - **GOAL 0**: Aplicar Zoom na interface.
-  - **METHOD 0.A:** Utilizar a roda do mouse.
+  - **METHOD 0.A:** Utilizar a roda do mouse.  
   **(SEL. RULE:** Praticidade. **)**
-  - **METHOD 0.B:** Utilizar o ícone presente na interface.
+  - **METHOD 0.B:** Utilizar o ícone presente na interface.  
   **(SEL. RULE:** Falta de costume/entendimento. **)**
 
 ## CTT
