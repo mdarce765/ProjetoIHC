@@ -3,7 +3,6 @@ Que dados coletar?
 Educação:   
   - Grau de instrução
   - Cursos realizados (especialmente se são relacionados à robótica)
-  - Já utilizou ROS/ROS2 antes?
   
 Idiomas e Jargões:  
   - Em que idiomas é fluente?
@@ -18,6 +17,7 @@ Experiência com um produto específico ou ferramentas
 semelhantes:
   - Já interagiu com ferramentas de modelagem?
   - Possui experiência com Gazebo, ou ferramentas similares?
+  - Já utilizou ROS/ROS2 antes?
 
 Objetivos:
   - Qual o uso que teria para este software? (Didático? Para testes? Entreterimento? etc.)
@@ -27,6 +27,7 @@ Tarefas:
   - Quais tarefas possui dificuldade com?
   - Quais das tarefas seria a mais importante de ser facilitada?
   - Há quanto tempo realiza essas tarefas?
+
 
 
 
