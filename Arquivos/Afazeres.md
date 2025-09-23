@@ -4,6 +4,8 @@
 * Adicionar acessibilidade em qualidade de uso. (Aumentar texto, Modo escuro ou etc).
 * Adicionar qualidade de uso em 4_Cenári.md
 
+# ARRUMAR O HTA do 3, fazer um intermediário do 1>2/3
+# detalhar terminal do goms
 
 # Análise de Tarefas
 
