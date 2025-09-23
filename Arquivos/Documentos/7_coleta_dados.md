@@ -13,7 +13,20 @@ Experiência com computadores:
   - Possui experiência com ferramentas digitais?
   - A quanto tempo utiliza o computador?
   - Que hardware costuma utilizar?
+  
 Experiência com um produto específico ou ferramentas
 semelhantes:
   - Já interagiu com ferramentas de modelagem?
-  - Possui experiência com ferramentas como Gazebo?
+  - Possui experiência com Gazebo, ou ferramentas similares?
+
+Objetivos:
+  - Qual o uso que teria para este software? (Didático? Para testes? Entreterimento? etc.)
+  - Atualmente utiliza alguma ferramenta que faz algo similar?
+
+Tarefas:
+  - Quais tarefas possui dificuldade com?
+  - Quais das tarefas seria a mais importante de ser facilitada?
+  - Há quanto tempo realiza essas tarefas?
+
+
+
