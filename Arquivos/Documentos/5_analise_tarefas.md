@@ -158,4 +158,4 @@ ABS - Utilizar arena customizada -> (ABS - Criar arena customizada []>> USR-SYS 
 ### 3 - Importar arena
 
 ### 4 - Aplicar zoom
-<img width="903" height="538" alt="image" src="https://github.com/user-attachments/assets/f2dee658-9dec-4970-89f9-a1b90bad2e7c" />
+<img width="874" height="494" alt="image" src="https://github.com/user-attachments/assets/517a06e5-dc44-4114-912b-741999248da0" />
