@@ -36,7 +36,7 @@
 
 2. Aspectos Éticos
 - Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.  
-    - Não haverá aspectos éticos, sendo que nosso projeto não precisa nem utilizará informações pessoais/sensíveis.  
+    - Não haverá aspectos éticos, sendo que nosso projeto não precisa nem utilizará informações pessoais/sensíveis, tornando as respostas efetivamente anonimas, sem possibilidade de dano ou vantagens aos respondentes.    
 
 3.​ Ferramentas de Coleta de Dados (três técnicas diferentes)
 - Nome do instrumento e objetivo de aplicação
@@ -44,6 +44,7 @@
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
 
 Que dados coletar?   
+
 
 
 
