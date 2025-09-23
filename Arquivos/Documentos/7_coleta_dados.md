@@ -30,9 +30,13 @@
       - Há quanto tempo realiza essas tarefas?
   
 - De quem coletar?
+    - Professores
+    - Alunos
+    - Pessoas interessadas em robótica
 
 2. Aspectos Éticos
-- Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.
+- Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.  
+    - Não haverá aspectos éticos, sendo que nosso projeto não precisa nem utilizará informações pessoais/sensíveis.  
 
 3.​ Ferramentas de Coleta de Dados (três técnicas diferentes)
 - Nome do instrumento e objetivo de aplicação
@@ -40,6 +44,7 @@
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
 
 Que dados coletar?   
+
 
 
 
