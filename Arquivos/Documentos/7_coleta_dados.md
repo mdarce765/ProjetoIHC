@@ -37,20 +37,17 @@
     - Não haverá aspectos éticos, sendo que nosso projeto não precisa nem utilizará informações pessoais/sensíveis, tornando as respostas efetivamente anonimas, sem possibilidade de dano ou vantagens aos respondentes.    
 
 # Ferramentas de Coleta de Dados (três técnicas diferentes)
-Entrevista, Questionário, Estudo de caso(Observação pura e entrevistas no ambiente do usuário)
+## Entrevista
+Perguntas:
+A quanto tempo mexe com a arena da K4-04?
+Como que desenvolve as arenas para a K4-04?
+Quanto tempo em média leva para desenvolver uma arena eficiente?
+Você utiliza simulações ou algum tipo de software de auxilio antes de usar a arena?
+
+[Entrevista]()
+## Questionário
+[Questionário]()
+## Estudo de campo(Observação pura e entrevistas no ambiente do usuário)
 - Nome do instrumento e objetivo de aplicação
 - Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
-  
-
-
-
-
-
-
-
-
-
-
-
-
