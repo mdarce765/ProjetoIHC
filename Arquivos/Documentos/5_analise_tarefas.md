@@ -41,8 +41,9 @@ graph TD;
 graph TD;
     id0[0 - Importar arena para a interface<br>1+2+3]
 
-    id1[1 - Utilizar o botão 'Arquivo' da interface<br>1>2/3]
+    id1[1 - Utilizar o botão 'Arquivo' da interface<br>1>2]
     id1.1[1.1 - Selecionar a opção de abrir arquivo<br>________________________]
+    id1.1e[1/2]
     id1.2[1.2 - Digitar o nome do arquivo<br>________________________]
     id1.3[1.3 - Selecionar o arquivo<br>________________________]
 
@@ -57,8 +58,9 @@ graph TD;
     id0-->id3
 
     id1-->id1.1
-    id1-->id1.2
-    id1-->id1.3
+    id1-->id1.1e
+    id1.1e-->id1.2
+    id1.1e-->id1.3
 
     id2-->id2.1
     id2-->id2.2
@@ -156,6 +158,7 @@ ABS - Utilizar arena customizada -> (ABS - Criar arena customizada []>> USR-SYS 
 <img width="1068" height="333" alt="Screenshot 2025-09-17 at 15 14 18" src="https://github.com/user-attachments/assets/11477bee-a640-40cb-b023-02f7213691cd" />
 
 ### 3 - Importar arena
+<img width="1016" height="657" alt="image" src="https://github.com/user-attachments/assets/de35861e-ba1b-40c9-a804-4a8d9f87c7e7" />
 
 ### 4 - Aplicar zoom
-<img width="874" height="494" alt="image" src="https://github.com/user-attachments/assets/517a06e5-dc44-4114-912b-741999248da0" />
+<img width="870" height="500" alt="image" src="https://github.com/user-attachments/assets/33322e2a-8253-4838-a88c-d8ecd2768680" />
