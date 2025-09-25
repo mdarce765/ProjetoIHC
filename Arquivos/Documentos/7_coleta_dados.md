@@ -38,6 +38,7 @@
 
 # Ferramentas de Coleta de Dados (três técnicas diferentes)
 ## Entrevista
+### Como aplicar?
 Perguntas:
 A quanto tempo mexe com a arena da K4-04?
 Como que desenvolve as arenas para a K4-04?
@@ -46,8 +47,11 @@ Você utiliza simulações ou algum tipo de software de auxilio antes de usar a 
 
 [Entrevista]()
 ## Questionário
+### Como aplicar?
 [Questionário]()
+
 ## Estudo de campo(Observação pura e entrevistas no ambiente do usuário)
 - Nome do instrumento e objetivo de aplicação
 - Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
+
