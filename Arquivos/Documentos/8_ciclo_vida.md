@@ -1,6 +1,7 @@
 **CICLO DE VIDA DE ENGENHARIA DE USABILIDADE**
 
-![Ciclo de vida](imagens/ciclo_de_vida.png)
+<img width="611" height="444" alt="ciclo_de_vida" src="https://github.com/user-attachments/assets/cdeaf626-28d7-4149-9b2b-e39c1c08c58c" />
+
 
 1. **Características da Plataforma**  
    
@@ -41,3 +42,4 @@
 |  | 1% |  |
 |  | 20% |  |
 | **Total** | **100%** |  |
+
