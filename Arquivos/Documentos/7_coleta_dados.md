@@ -40,18 +40,25 @@
 ## Entrevista
 ### Como aplicar?
 Perguntas:
-A quanto tempo mexe com a arena da K4-04?
-Como que desenvolve as arenas para a K4-04?
-Quanto tempo em média leva para desenvolver uma arena eficiente?
-Você utiliza simulações ou algum tipo de software de auxilio antes de usar a arena?
+* A quanto tempo mexe com a arena da K4-04?
+* Como que desenvolve as arenas para a K4-04?
+* Quanto tempo em média leva para desenvolver uma arena eficiente?
+* Você utiliza simulações ou algum tipo de software de auxilio antes de usar a arena? Quais?
+* O que poderia facilitar o uso da arena e como utiliza-la?
 
 [Entrevista]()
 ## Questionário
 ### Como aplicar?
+Perguntas:
+* Qual o nivel de satisfação com relação ao desenvolvimento de arenas na K4-04?
+* Qual a média de tempo que se leva para fazer todo o ciclo de uso da arena (desenvolver, testar, desmontar)?
+* Quais softwares são os mais utilizados com relação ao uso do desenvolvimento de arenas? (no máximo 2, Gazebo Classic, Ignition, Autodesk, Blender, nenhum/outro)
+* 
 [Questionário]()
 
 ## Estudo de campo(Observação pura e entrevistas no ambiente do usuário)
 - Nome do instrumento e objetivo de aplicação
 - Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
+
 
