@@ -38,28 +38,17 @@
 
 # Ferramentas de Coleta de Dados (três técnicas diferentes)
 ## Entrevista
+Realizar uma entrevista com algumas pessoas conhecidas que utilizam a sala K4-04, como alunos e professores e pedir para que possam realizar uma entrevista e se possivel, responder um questionário.
 ### Como aplicar?
-Perguntas:
-* A quanto tempo mexe com a arena da K4-04?
-* Como que desenvolve as arenas para a K4-04?
-* Quanto tempo em média leva para desenvolver uma arena eficiente?
-* Você utiliza simulações ou algum tipo de software de auxilio antes de usar a arena? Quais?
-* O que poderia facilitar o uso da arena e como utiliza-la?
-
-[Entrevista]()
+[Entrevista](https://forms.gle/2opMe8skCGS1RpE79)
 ## Questionário
+Pedir a um aluno, professor ou a instituição para compartilhar o questionário para as pessoas que utilizam a arena da K4-04.
 ### Como aplicar?
-Perguntas:
-* Qual o nivel de satisfação com relação ao desenvolvimento de arenas na K4-04?
-* Qual a média de tempo que se leva para fazer todo o ciclo de uso da arena (desenvolver, testar, desmontar)?
-* Quais softwares são os mais utilizados com relação ao uso do desenvolvimento de arenas? (no máximo 2, Gazebo Classic, Ignition, Autodesk, Blender, nenhum/outro)
-* 
 [Questionário](https://forms.gle/rcivk7tz7knYRzvr8)
 
 ## Estudo de campo(Observação pura e entrevistas no ambiente do usuário)
-- Nome do instrumento e objetivo de aplicação
-- Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
-- Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
+Combinar com um professor para que o grupo pudesse observar uma aula em que os alunos usem a arena da K4-04, após a aula realizar algumas perguntas e entregar o link do [Questionário](https://forms.gle/rcivk7tz7knYRzvr8) para que os mesmos possam responder.
+
 
 
 
