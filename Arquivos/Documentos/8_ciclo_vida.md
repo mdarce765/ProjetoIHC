@@ -8,7 +8,7 @@
 
 | Característica | Descrição |
 | :---- | :---- |
-| Descrição do Software | Utiliza Docker, ROS2 Humble, Linux Jammy e bibliotecas de ROS2 |
+| Descrição do Software | Programa para Computador, com o objetivo de facilitar a construção de mapas voltados para a robótica  |
 | Descrição do Hardware | Computador com Processador i5 ou equivalente, e de RAM de 8 GB DDR4 |
 | LISTA DE Capacidades da Plataforma (com explicação) |  |
 | LISTA DE Restrições da Plataforma (com explicação) | - Requer Sistema Operacional (SO) Linux Jammy, ou utilização de Docker com emulador de Xserver; Por conta de requerimentos de dependências do projeto, é necessário que o SO seja Linux Jammy.<br>- Necessário  |
@@ -42,5 +42,6 @@
 |  | 1% |  |
 |  | 20% |  |
 | **Total** | **100%** |  |
+
 
 
