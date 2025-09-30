@@ -8,9 +8,9 @@
 
 | Característica | Descrição |
 | :---- | :---- |
-| Descrição do Software | Programa para Computador, com o objetivo de facilitar a construção de mapas voltados para a robótica  |
+| Descrição do Software | Programa para Computador, com o objetivo de facilitar a construção de modelos 3D voltados para mapas a serem utilizados em simulações na robótica  |
 | Descrição do Hardware | Computador com Processador i5 ou equivalente, e de RAM de 8 GB DDR4 |
-| LISTA DE Capacidades da Plataforma (com explicação) |  |
+| LISTA DE Capacidades da Plataforma (com explicação) | - Criação de mapas em formato sdf sem necessidade de ferramentas de modelagem 3D; O nosso programa não necessita de ferramentas de modelagem 3D, essas que por muitas vezes são pesadas e não muito intuitivas para um iniciante usar<br>- Capaz de ser utilizado em qualquer SO capaz de rodar scripts python; O nosso programa pode ser usado nos SOs mais populares (Windows e MAC), além dos que são mais voltados para robótica (Linux).|
 | LISTA DE Restrições da Plataforma (com explicação) | - Requer<br>- Necessário   |
 
 2. **Princípios Gerais do Projeto (INCREMENTAR TABELA)**     
@@ -42,6 +42,7 @@
 |  | 1% |  |
 |  | 20% |  |
 | **Total** | **100%** |  |
+
 
 
 
