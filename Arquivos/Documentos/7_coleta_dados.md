@@ -38,16 +38,17 @@
 
 # Ferramentas de Coleta de Dados (três técnicas diferentes)
 ## Entrevista
-Realizar uma entrevista com algumas pessoas conhecidas que utilizam a sala K4-04, como alunos e professores e pedir para que possam realizar uma entrevista e se possivel, responder um questionário.
+Realizar uma entrevista com algumas pessoas conhecidas que utilizam a sala K4-04, como alunos e professores, e pedir para poderem realizar uma entrevista e, se possível, responder um questionário.
 ### Como aplicar?
 [Entrevista](https://forms.gle/2opMe8skCGS1RpE79)
 ## Questionário
-Pedir a um aluno, professor ou a instituição para compartilhar o questionário para as pessoas que utilizam a arena da K4-04.
+Pedir a um aluno, professor ou à instituição para compartilhar o questionário para as pessoas que utilizam a arena da K4-04.
 ### Como aplicar?
 [Questionário](https://forms.gle/rcivk7tz7knYRzvr8)
 
-## Estudo de campo(Observação pura e entrevistas no ambiente do usuário)
-Combinar com um professor para que o grupo pudesse observar uma aula em que os alunos usem a arena da K4-04, após a aula realizar algumas perguntas e entregar o link do [Questionário](https://forms.gle/rcivk7tz7knYRzvr8) para que os mesmos possam responder.
+## Estudo de campo (Observação pura e entrevistas no ambiente do usuário)
+Combinar com um professor para que o grupo pudesse observar uma aula em que os alunos usem a arena da K4-04. Após a aula, realizar algumas perguntas e entregar o link do [Questionário](https://forms.gle/rcivk7tz7knYRzvr8) para que os mesmos possam responder.
+
 
 
 
