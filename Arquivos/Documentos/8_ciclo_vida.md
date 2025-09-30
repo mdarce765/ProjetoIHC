@@ -31,7 +31,9 @@
 3. **Metas de Usabilidade**
 
    1. **Qualitativo**
-
+      - Interface com limites máximos e mínimos de zoom, para não permitir o usuário de acidentalmente exagerar no zoom pra dentrou ou pra fora
+      - Interface responsiva, para não causar frustração
+      - Interface intuitiva e fácil de se usar, a fim de reduzir ou eliminar a necessidade de treinamento
     
 
 
@@ -39,12 +41,11 @@
     
 | Metas | Porcentagem | Justificativa |
 | ----- | :---- | :---- |
-| Facilidade de … |  |  |
-|  |  |  |
-|  |  |  |
-|  | 1% |  |
-|  | 20% |  |
+| Facilidade de uso | 75% | É extremamente importante para a interface ser intuitiva de se usar |
+| Limites de zoom | 10% | Ajuda o usuário a não se perder |
+| Interface Responsiva | 15% | Ajuda o usuário a se sentir comfortável enquanto utiliza o programa |
 | **Total** | **100%** |  |
+
 
 
 
