@@ -1,6 +1,7 @@
 
-1) **Cenários de Interação**
+1) **Cenários de Interação (Fazer para os 3?)**
 > **_NOTE:_**: destacar em negrito o texto alterado entre Cenário Problema e Cenário de Interação
+É para então falar como eles lidariam caso tivesse NOSSO projeto? (com detalhes de interação, claro)
 
 2) **Design Centrado na Comunicação**
 
@@ -38,3 +39,4 @@
 | **signo** | **prevenção** | **recuperação** |
 | usuário | PP: campo obrigatório | RA |
 | senha | PP campo obrigatório  | RA |
+
