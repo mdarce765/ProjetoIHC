@@ -9,9 +9,9 @@
 
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
-| selecionar paredes | U: Preciso selecionar as paredes que eu preciso na arena<br>D: Quais? |
+| Selecionar paredes | U: Preciso selecionar as paredes que eu preciso na arena<br>D: Quais? |
 | > remover parede | U:Errei! Não quero aquela parede não!<br>D: Certo, qual parede quer remover? |
-| > salvar arena | U: Acho que esta bom agora |
+|  Salvar arena | U: Acho que esta bom agora |
 | Criar mapa | U: Consegue montar uma arena com essas paredes selecionadas?<br>D:Claro, aqui está |
 
 
@@ -49,5 +49,6 @@
 | **signo** | **prevenção** | **recuperação** |
 | usuário | PP: campo obrigatório | RA |
 | senha | PP campo obrigatório  | RA |
+
 
 
