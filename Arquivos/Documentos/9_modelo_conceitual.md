@@ -27,28 +27,41 @@
 
 3) **Mapa de Objetivos**
 > **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
+```mermaid
+treemap-beta
+"Teste"
+    "Leaf 1.1": 12
+    "Section 1.2"
+      "Leaf 1.2.1": 12
+"Section 2"
+    "Leaf 2.1": 20
+    "Leaf 2.2": 25
 
+```
 4) **Esquema Conceitual de Signos**
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
+| Mapa (M) \- Mapa a ser modificado |  |  |
 | :---- | :---- | :---- |
 | **signo** | **origem** | **observações** |
-| usuário | domínio |  |
-| senha | domínio |  |
+| Paredes | Domínio | Botões nos lugares onde podem ser colocadas paredes no mapa |
+| Barra De Zoom | Aplicação | Barra que define/representa o valor de zoom |
+| Salvar | Domínio | Botão que salva as paredes selecionadas até agora |
+| Exportar | Domínio | Botão que transforma as paredes selecionadas em paredes no mapa simulado, as exportando para um arquivo de arena |
 
 | Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |
 | :---- | :---- | :---- | :---- |
 | **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
-| usuário | texto | não pode ser nulo | — |
-| senha | texto | não pode ser nulo | — |
+| Paredes | Seleção Simples | Se pode apenas colocar paredes aonde se possui botões | Nenhuma selecionada |
+| Barra de zoom | Barra selecionável(?) | 20%-200% Zoom | 100% Zoom |
 
 | Credenciais (C) \- credenciais para acesso ao sistema |  |  |
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
-| usuário | PP: campo obrigatório | RA |
+| Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
 | senha | PP campo obrigatório  | RA |
+
 
 
 
