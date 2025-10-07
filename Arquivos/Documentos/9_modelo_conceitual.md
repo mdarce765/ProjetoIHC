@@ -27,17 +27,7 @@
 
 3) **Mapa de Objetivos**
 > **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
-```mermaid
-treemap-beta
-"Teste"
-    "Leaf 1.1": 12
-    "Section 1.2"
-      "Leaf 1.2.1": 12
-"Section 2"
-    "Leaf 2.1": 20
-    "Leaf 2.2": 25
 
-```
 4) **Esquema Conceitual de Signos**
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
@@ -61,6 +51,7 @@ treemap-beta
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
 | senha | PP campo obrigatório  | RA |
+
 
 
 
