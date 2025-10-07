@@ -55,7 +55,7 @@
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
-| senha | PP campo obrigatório  | RA |
+
 
 
 
