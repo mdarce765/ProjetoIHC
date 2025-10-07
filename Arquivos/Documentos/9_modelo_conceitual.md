@@ -40,17 +40,18 @@
 | Salvar | Domínio | Botão que salva as paredes selecionadas até agora |
 | Exportar | Domínio | Botão que transforma as paredes selecionadas em paredes no mapa simulado, as exportando para um arquivo de arena |
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |
+| Mapa (M) \- Mapa a ser modificado |  |  |  |
 | :---- | :---- | :---- | :---- |
 | **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
 | Paredes | Seleção Simples | Se pode apenas colocar paredes aonde se possui botões | Nenhuma selecionada |
 | Barra de zoom | Barra selecionável(?) | 20%-200% Zoom | 100% Zoom |
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
+| Mapa (M) \- Mapa a ser modificado |  |  |
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
 | senha | PP campo obrigatório  | RA |
+
 
 
 
