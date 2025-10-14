@@ -27,7 +27,7 @@
 | final| quer criar um mapa de forma fácil e rápida|
 | instrumental | quer utilizar uma ferramenta leve para criar um mapa de forma fácil e rápida |
 | instrumental direto | quer utilizar uma ferramenta leve, capaz de facilmente iterar modificações em mapas, para ter seu desenvolvimento mais fácil e rápido |
-| instrumental indireto | quer utilizar uma ferramenta leve, capaz de utilizar outros mapas já modificados disponibilizados por outros usuários, para ter seu desenvolvimento mais fácil e rápido |
+| instrumental indireto | quer utilizar uma ferramenta leve, que força o usuário a colocar as paredes nas posições corretas, para que outros consigam iterar em seus mapas de forma corrta |
 
 | tipo de objetivo | você quer criar um mapa de forma rápida e fácil |
 |---|---|
@@ -60,6 +60,7 @@
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
+
 
 
 
