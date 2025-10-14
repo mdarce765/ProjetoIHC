@@ -33,6 +33,22 @@
 3) **Mapa de Objetivos**
 > **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
 
+| tipo de objetivo | você |
+|---|---|
+| final| quer criar um mapa de forma fácil e rápida|
+| instrumental | quer utilizar uma ferramenta leve para criar um mapa de forma fácil e rápida |
+| instrumental direto | quer utilizar uma ferramenta leve, capaz de facilmente iterar modificações em mapas, para ter seu desenvolvimento mais fácil e rápido |
+| instrumental indireto | quer utilizar uma ferramenta leve, capaz de utilizar outros mapas já modificados disponibilizados por outros usuários, para ter seu desenvolvimento mais fácil e rápido |
+
+| tipo de objetivo | você quer criar um mapa de forma rápida e fácil |
+|---|---|
+| final| |
+| instrumental | |
+| instrumental direto | |
+| instrumental indireto | |
+
+
+
 4) **Esquema Conceitual de Signos**
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
@@ -55,6 +71,7 @@
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
+
 
 
 
