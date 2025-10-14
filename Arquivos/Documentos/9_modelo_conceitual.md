@@ -19,17 +19,6 @@
 |  Salvar arena | U: Acho que esta bom agora |
 | Criar mapa | U: Consegue montar uma arena com essas paredes selecionadas?<br>D:Claro, aqui está |
 
-
-**Nome do Cenário: XXXXXX**
-
-| tópico \> subtópico (diálogo) | falas e signos |
-| :---- | :---- |
-|  | U: Preciso … |
-| \>  | U: Quero … D: Aqui está o mapa |
-|  | U:  |
-|  | U:  |
-|  | D: Aqui está a informação filtrada |
-
 3) **Mapa de Objetivos**
 > **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
 
@@ -71,6 +60,7 @@
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
+
 
 
 
