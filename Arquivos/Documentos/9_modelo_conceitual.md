@@ -83,4 +83,6 @@
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PA: só se pode colocar paredes aonde se foi demarcado | - |
+| X | PA: Aparece um aviso caso não tenha salvo o arquivo antes de tentar fechar | RA: Pede confirmação se realmente não quer salvar as mudanças|
+
 
