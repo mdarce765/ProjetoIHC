@@ -1,5 +1,5 @@
 
-# **Cenários de Interação (Fazer para os 3?)**
+# **Cenários de Interação**
 > **_NOTE:_**: destacar em negrito o texto alterado entre Cenário Problema e Cenário de Interação
 É para então falar como eles lidariam caso tivesse NOSSO projeto? (com detalhes de interação, claro)
 
@@ -84,6 +84,7 @@
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PP: só se pode colocar paredes aonde se foi demarcado | - |
 | X | PA: Aparece um aviso caso não tenha salvo o arquivo antes de tentar fechar | RA: Pede confirmação se realmente não quer salvar as mudanças|
+
 
 
 
