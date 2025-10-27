@@ -1,11 +1,11 @@
 1) **Planejamento de Usabilidade (método DECIDE)**
 
-| D | Determinar os [Objetivos (Linkar para os objetivos)](https://github.com/)   |
+| D | Determinar os Objetivos    |
 | :---: | :---- |
-| **E** | Explorar as [Perguntas](https://github.com/mdarce765/ProjetoIHC/blob/main/Arquivos/Documentos/7_coleta_dados.md) |
-| **C** | Escolher (Choose) os [métodos de avaliação (Linkar para os métodos)](https://github.com/) 
-| **I** | Identificar as [Questões práticas(Linkas para as questões práticas)](https://github.com/) |
-| **D** | Decidir como lidar com as [Questões éticas](https://github.com/mdarce765/ProjetoIHC/blob/main/Arquivos/Documentos/7_coleta_dados.md) |
+| **E** | Explorar as Perguntas |
+| **C** | Escolher (Choose) os métodos de avaliação 
+| **I** | Identificar as Questões práticas |
+| **D** | Decidir como lidar com as Questões éticas |
 | **E** | Avaliar (Evaluate) os resultados ... |
 
 2) Lista de Instrumentos  
@@ -13,6 +13,7 @@
    2) Questionários  
    3) Tabela de Observação  
    4) Formulário de avaliação Heuristica.
+
 
 
 
