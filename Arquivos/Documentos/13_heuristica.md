@@ -54,5 +54,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
 
 > **_NOTE:_**: **1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
+7. Permitir que o usuário consiga selecionar várias paredes de uma vez ao segurar o clique e arrastar o mouse, tornando a seleção mais rápida e suave.
+
 
 
