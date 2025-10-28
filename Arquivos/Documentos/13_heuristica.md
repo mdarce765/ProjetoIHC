@@ -26,7 +26,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 | **6\.** |  **Reconhecimento em lugar de lembrança:** |
 | Tornar objetos, ações, opções visíveis e coerentes. O usuário não deve ter que lembrar informações de uma parte do diálogo para outra. Instruções para o uso do sistema devem estar visíveis ou facilmente acessíveis. |  |
 | **7\.** | **Flexibilidade e eficiência de uso:** |
-| A ineficiência nas tarefas pode reduzir a eficácia do usuário e causar-lhes frustração. O sistema deve ser adequado tanto para usuários inexperientes quanto para usuários experientes. |  |
+| A ineficiência nas tarefas pode reduzir a eficácia do usuário e causar-lhes frustração. O sistema deve ser adequado tanto para usuários inexperientes quanto para usuários experientes. | 2 - O sistema não possui 'truques' para tornar a interação mais eficiente, não criando distinção entre um usuário inexperiente e experiente<br>Exemplo: Permitir que o usuário possa segurar o clique do mouse para selecionar várias paredes, diminuindo a quantidade de cliques, e tornando a interação mais suave. |
 | **8\.** | **Projeto minimalista e estético:** |
 | Os diálogos não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação em um diálogo compete com unidades relevantes e diminui sua visibilidade relativa. |  |
 | **9\.** | **Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros:** |
@@ -54,4 +54,5 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
 
 > **_NOTE:_**: **1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
+
 
