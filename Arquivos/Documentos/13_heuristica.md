@@ -32,7 +32,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 | **9\.** | **Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros:** |
 | Mensagens de erro devem ser expressas em linguagem natural (sem códigos), indicando precisamente o erro e sugerindo uma solução. |  |
 | **10\.** | **Ajuda e documentação:** |
-| Mesmo que seja melhor que o sistema possa ser usado sem documentação, pode ser necessário fornecer ajuda e documentação. Tais informações devem ser fáceis de encontrar, ser centradas na tarefa do usuário, listar passos concretos a serem seguidos e não ser muito grandes. A ajuda deve estar facilmente acessível e on-line. |  |
+| Mesmo que seja melhor que o sistema possa ser usado sem documentação, pode ser necessário fornecer ajuda e documentação. Tais informações devem ser fáceis de encontrar, ser centradas na tarefa do usuário, listar passos concretos a serem seguidos e não ser muito grandes. A ajuda deve estar facilmente acessível e on-line. | 0- Ajuda se encontra na interface, tendo um curto manual de todas as funcionalidades; Não está disponível de forma separada online |
 
 2\. A seguir, avalie o sistema procurando possíveis problemas de usabilidade.   
 3\. Quando um problema qualquer for detectado, classifique-o em uma das dez heurísticas de Nielsen, anotando o problema na tabela correspondente e atribuindo o **grau de severidade** (0 até 4\) para este problema (dado pela tabela 2\) e recomece novamente até não encontrar mais problemas de usabilidade.
@@ -55,6 +55,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 > **_NOTE:_**: **1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
 3. O usuário é capaz de sair do programa a qualquer momento, sendo que o botão de fechar a página está sempre disponível
+
 
 
 
