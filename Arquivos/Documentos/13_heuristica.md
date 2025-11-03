@@ -14,9 +14,9 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 | 1\. | Visibilidade do status do sistema: |
 | :---- | :---- |
-| O sistema deve sempre manter os usuários informados sobre o que está acontecendo através de feedback apropriado, em um tempo razoável. |  |
+| O sistema deve sempre manter os usuários informados sobre o que está acontecendo através de feedback apropriado, em um tempo razoável. | 3 - O sistema retorna quando o usuário aciona uma placa (alterando a cor/opacidade da placa selecionada); a contagem de placas é alterada a cada placa posicionada ou removida; retorna as janelas do sistema operacional quando salva, carrega ou exporta a arena. Caso não seja atualizada em algum desses pontos, a interface está com algum problema. |
 | **2\.** | **Compatibilidade entre sistema e mundo real:** |
-| O sistema deve utilizar a linguagem do usuário, com palavras, frases e conceitos familiares para ele, ao invés de termos específicos de sistemas. Seguir convenções do mundo real, fazendo com que a informação apareça em uma ordem lógica e natural. |  |
+| O sistema deve utilizar a linguagem do usuário, com palavras, frases e conceitos familiares para ele, ao invés de termos específicos de sistemas. Seguir convenções do mundo real, fazendo com que a informação apareça em uma ordem lógica e natural.|  |
 | **3\.** | **Controle e liberdade para o usuário:** |
 | Estão relacionados à situação em que os usuários frequentemente escolhem as funções do sistema por engano e então necessitam de "uma saída de emergência” claramente definida para sair do estado não desejado sem ter que percorrer um longo diálogo, ou seja, é necessário suporte a *undo* e *redo*. |  |
 | **4\.** | **Consistência e padrões:** |
@@ -55,6 +55,7 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 > **_NOTE:_**: **1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
 3. O usuário é capaz de sair do programa a qualquer momento, sendo que o botão de fechar a página está sempre disponível
+
 
 
 
