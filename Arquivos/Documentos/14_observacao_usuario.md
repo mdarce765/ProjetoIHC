@@ -6,13 +6,19 @@
 1) **Fluxograma de Avaliação de Usabilidade por Observação do Usuário \[1 solução por equipe\]**
 
 2) **DESCRIÇÃO DO PROCEDIMENTO DE PREPARAÇÃO DO TESTE \[1 solução por equipe\]**
-
-**Passo 1:**  
+   
+**Passo 1: Introduzir usuário aos conceitos básicos necessários para a manipulação do programa (caso necessário)**  
 **Passo 2: Lista de tarefas que o usuário deve cumprir.**  
-**Passo 3: Formulário de perfil do usuário**  
-**etc…**
+  - Tarefa 1: Exportar um mapa vazio
+  - Tarefa 2: Exportar um mapa com pelo menos 3 paredes
+  - Tarefa 3: Exportar um mapa com "um quadrado" de paredes
+  - Tarefa 4: Fazer um "desenho" com as paredes (Livre)
+  - Tarefa 5: Exportar o mapa com o desenho
+    
+**Passo 3: Formulário de perfil do usuário**
+  - Inserir formulário de perfil:  
 
-3) **RESULTADOS DO TESTE \[1 solução por equipe\]**
+4) **RESULTADOS DO TESTE \[1 solução por equipe\]**
 
 **Avaliação de cada Tarefa (para cada usuário)**
 
@@ -32,3 +38,4 @@
 **Respostas do Formulário do Usuário:**
 
 **Conclusão da avaliação por observação do usuário:**
+
