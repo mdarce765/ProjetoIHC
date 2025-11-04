@@ -16,7 +16,7 @@
   - Tarefa 5: Exportar o mapa com o desenho
     
 **Passo 3: Formulário de perfil do usuário**
-  - Inserir formulário de perfil:  
+  - (!A fazer) Inserir formulário de perfil:  [Formulário](https:)
 
 4) **RESULTADOS DO TESTE \[1 solução por equipe\]**
 
@@ -25,17 +25,15 @@
 | Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **1** | **Sucesso Parcial** | **2** | **Não completou a tarefa(1), (1) Compreensão** | **5 segundos** | **Confusão Moderada** |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| **2** |  |  |  |  |  |
+| **3** |  |  |  |  |  |
+| **4** |  |  |  |  |  |
+| **5** |  |  |  |  |  |
 
 **Links dos vídeos:**
 
 **Respostas do Formulário do Usuário:**
 
 **Conclusão da avaliação por observação do usuário:**
+
 
