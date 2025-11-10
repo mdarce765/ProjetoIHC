@@ -19,11 +19,11 @@
 
 | Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| **1** | **Sucesso Parcial** | **2** | **Não completou a tarefa(1), (1) Compreensão** | **5 segundos** | **Confusão Moderada** |
-| **2** |  |  |  |  |  |
-| **3** |  |  |  |  |  |
-| **4** |  |  |  |  |  |
-| **5** |  |  |  |  |  |
+| **1** | **Sucesso** | **1** | **Clicou Erroneamente** | **15 segundos** | **Confusão Baixa** |
+| **2** | **Sucesso** | **2** | **Clicou duas vezes acidentalmente(2)** | **40 segundos** | **Confusão Baixa** |
+| **3** | **Sucesso** | **0** |  | **20 segundos** | **Sem Confusão** |
+| **4** | **Sucesso** | **1** | **Clicou duas vezes acidentalmente** | **132 segundos** | **Sem Confusão** |
+| **5** | **Sucesso** | **0** |  | **5 segundos** | **Sem confusão** |
 
 | Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -35,7 +35,9 @@
 
 **Respostas do Formulário do Usuário:**
 
-**Conclusão da avaliação por observação do usuário:**
+**Conclusão da avaliação por observação do usuário:**  
+Avaliação 1:  
+- Inicialmente houve leve confusão, exarcebada pelos erros iniciais (clicou fora do programa, acidentalmente clicou duplamente em paredes), mas entendeu oque aconteceu rapidamente, se recuperando sozinho do erro.
 
 
 
