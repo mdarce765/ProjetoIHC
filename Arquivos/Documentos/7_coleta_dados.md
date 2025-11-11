@@ -48,9 +48,3 @@ Pedir a um aluno, professor ou à instituição para compartilhar o questionári
 
 ## Estudo de campo (Observação participante)
 Combinar com um professor para que o grupo pudesse observar uma aula em que os alunos usem a arena da K4-04. Após a aula, realizar algumas perguntas e entregar o link do [Questionário](https://forms.gle/rcivk7tz7knYRzvr8) para que os mesmos possam responder, realizar algumas entrevistas com alunos que se aceitarem e anotar sobre suas interações.
-
-
-
-
-
-

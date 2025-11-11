@@ -38,6 +38,3 @@
 **Conclusão da avaliação por observação do usuário:**  
 Avaliação 1:  
 - Inicialmente houve leve confusão, exarcebada pelos erros iniciais (clicou fora do programa, acidentalmente clicou duplamente em paredes), mas entendeu oque aconteceu rapidamente, se recuperando sozinho do erro.
-
-
-

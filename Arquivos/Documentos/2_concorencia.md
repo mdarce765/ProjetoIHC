@@ -1,39 +1,8 @@
 # Análise de concorrência
 
-<!-->> **_NOTE:_**: O fator mais importante desta entrega é a equipe conseguir identificar e documentar prints de telas de interfaces concorrentes (ou interfaces representativas para o público alvo). Esses prints serão usados na fase de caracterização de padrões, affordances, heurísticas, etc. CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA
-
-1. Identifique os principais concorrentes mais utilizados pelo seu público-alvo.
-> **_NOTE:_**: link, descrição e imagens de ilustração
-2. Descreva as características e funcionalidades de cada concorrente.
-3. Colete opniões sobre a experiência do usuário (UX) de cada concorrente.
-4. Apresente os preços e modelos de negócio de cada concorrente.
-5. Identifique padrões e tendências no mercado.
-6. Elabore relatórios e sumarize os resultados.
-7. Extraia pontos positivos/negativos e faça recomendações.
--->
-
-## Análise de concorrência
-
-<!-- 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo. X
-2. Colete informações sobre os concorrentes selecionados. X
-3. Analise as características e funcionalidades dos concorrentes. X
-4. Avalie a experiência do usuário (UX). REVISAR
-5. Examine os preços e modelos de negócio. FALTA O DO GAZEBO
-6. Pesquisa de satisfação do cliente e opiniões. X
-7. Identifique padrões e tendências no mercado. X
-8. Elabore relatórios e sumarize os resultados. X
-9. Extraia pontos positivos e faça recomendações. X 
-
-Analise de concorrência: falta experiencia de utilização da ferramenta ou serviço, preços, feedbacks dos usuários, tendencias do mercado, pontos positivos e negativos
--->
-
 Alguns concorrentes que encontramos foram o Autodestk Fusion, Blender e o Gazebo Simulator. Estes softwares podem ser utilizados para se desenvolver mapas/Arenas para robôs.  
-
-
-
 Autodesk Fusion é um software com grande foco na área de simulação de tensões de materiais e modelagem 3D, CAD, CAM, CAE e PCB, sendo utilizado em testes de novos materiais para hardware com simulações mecânicas e de movimento.  
 <img width="524" height="276" alt="image" src="https://github.com/user-attachments/assets/87fc401c-41b7-4c09-8448-7dc37ce0a918" />  
-
 
 Blender é um software completamente voltado para a criação de modelos 3d, sendo utilizado para a criação de arenas mais complexas com maior facilidade que outras ferramentas.  
 <img width="524" height="276" alt="image" src="https://github.com/user-attachments/assets/ba4278da-b326-465c-bda6-19350b20877e" />  

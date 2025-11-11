@@ -45,12 +45,3 @@
 | Limites de zoom | 10% | Ajuda o usuário a não se perder |
 | Interface Responsiva | 15% | Ajuda o usuário a se sentir comfortável enquanto utiliza o programa |
 | **Total** | **100%** |  |
-
-
-
-
-
-
-
-
-

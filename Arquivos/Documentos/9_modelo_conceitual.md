@@ -1,7 +1,5 @@
 
 # **Cenários de Interação**
-> **_NOTE:_**: destacar em negrito o texto alterado entre Cenário Problema e Cenário de Interação
-É para então falar como eles lidariam caso tivesse NOSSO projeto? (com detalhes de interação, claro)
 
 ## Edson Adalberto
 - O professor Edson Adalberto é um professor de engenharia de robôs [9], o professor estava pensando em um plano de aulas para a matéria de "Introdução a robótica móvel" [10] com exemplos mais práticos [1], onde poderia atrair mais a atenção de seus alunos e permitir que os mesmos tenham uma base mais forte relacionada a prática da robótica quanto antes [21] para isso o mesmo decidiu utilizar a sala da K4-04 [7] onde existe uma arena que o mesmo pode utilizar [3] para ministrar as aulas e também para que seus alunos possam realizar suas tarefas [17], que consistem em verificar o quão rápido um robô sai do ponto de partida e chega ao outro lado da arena [24], esta arena possui uma base pronta, mas pode ser alterada pelo usuário com a adição de placas [14] que funcionariam como paredes para dificultar a locomoção de um robô [4], mas o mesmo encontrou um problema que seria relacionado ao desenvolvimento da arena, para desenvolver labirintos para serem utilizados na aula, o mesmo precisa estar no campus montar e desmontar manualmente [8] [19] a arena diversas vezes até encontrar uma arena que cumpra os requisitos que o mesmo deseja [5] que são os de serem labirintos que possuam ao menos três caminhos fechados e no máximo um atalho [23] **e como solução utilizaria a interface, onde o mesmo consegue criar as arenas baseadas na da sala de aula e mostrar para os seus alunos**.
@@ -59,8 +57,6 @@
 | instrumental direto | |
 | instrumental indireto | |
 
-
-
 # **Esquema Conceitual de Signos**
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
@@ -84,7 +80,3 @@
 | **signo** | **prevenção** | **recuperação** |
 | Paredes | PP: só se pode colocar paredes aonde se foi demarcado | - |
 | X | PA: Aparece um aviso caso não tenha salvo o arquivo antes de tentar fechar | RA: Pede confirmação se realmente não quer salvar as mudanças|
-
-
-
-

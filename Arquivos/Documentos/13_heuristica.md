@@ -1,16 +1,11 @@
-1) **Avaliação de IHC através de inspeção HEURÍSTICA \[1 solução completa por pessoa da equipe \- todas as telas do projeto\]**
-
-> **_NOTE:_**: SOMENTE VIOLAÇÕES
-
-Dez Heurísticas de Nielsen
+# Avaliação de IHC através de inspeção HEURÍSTICA
+## Dez Heurísticas de Nielsen
 
 **Descrição da avaliação**
 
 Avaliação heurística, definida por Nielsen e Molich (1994), é um método de avaliação de usabilidade onde um avaliador procura problemas de usabilidade numa interface com o usuário através da análise e interpretação de um conjunto de princípios ou heurísticas. Este método de avaliação é baseado no julgamento do avaliador.
 
-# 1\. Primeiramente, leia e analise as dez heurísticas (ver Tabela 1).
-
-**Tabela 1 \- Conjunto de heurísticas de Nielsen (1994)**
+# **Tabela 1 \- Conjunto de heurísticas de Nielsen (1994)**
 
 | 1\. | Visibilidade do status do sistema: |
 | :---- | :---- |
