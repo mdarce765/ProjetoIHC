@@ -21,15 +21,15 @@
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
 | Selecionar paredes | U: Preciso selecionar as paredes que eu preciso na arena<br>D: Quais? |
-| > remover parede | U:Errei! Não quero aquela parede não!<br>D: Certo, qual parede quer remover? |
-|  Salvar arena | U: Acho que esta bom agora |
-| Criar mapa | U: Consegue montar uma arena com essas paredes selecionadas?<br>D:Claro, aqui está |
+| Remover parede | U: Errei! Não quero aquela parede, não!<br>D: Certo, qual parede quer remover? |
+| Salvar arena | U: Acho que está bom agora |
+| Criar mapa | U: Consegue montar uma arena com essas paredes selecionadas?<br>D: Claro, aqui está |
 
 **Nome do Cenário: Importar mapa**
 
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
-| Importar a arena | U: Quero importar uma arena para a interface<br> D: Como você deseja importar a arena? Botão da aplicação, Comando de teclado ou pelo terminal?|
+| Importar a arena | U: Quero importar uma arena para a interface<br> D: Como você deseja importar a arena? Botão da aplicação, comando de teclado ou pelo terminal? |
 | Selecionar o arquivo | U: Quero escolher o arquivo para importar?<br> D: Como você quer procurar? Digitando o nome ou selecionando com o mouse? |
 
 **Nome do Cenário: Aplicar zoom**
@@ -37,46 +37,35 @@
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
 | Escolher como aplicar | U: Eu não estou enxergando bem, eu quero aproximar mais a tela.<br> D: Como você quer aplicar o zoom? Pop-up da interface ou usando o mouse? |
-| Aplicar com o pop-up | U: Eu quero usar o pop-up.<br> D: Certo, Aperte o botão "+" para ampliar e "-" para tirar o zoom. 
-| Aplican com o mouse | U: Eu quero usar o mouse.<br> D: Certo, posicione o mouse onde deseja e use a roda do mouse para aplicar ou retirar. |
+| Aplicar com o pop-up | U: Eu quero usar o pop-up.<br> D: Certo, aperte o botão "+" para ampliar e "-" para tirar o zoom. 
+| Aplicam com o mouse | U: Eu quero usar o mouse.<br> D: Certo, posicione o mouse onde deseja e use a roda do mouse para aplicar ou retirar. |
 
 # **Mapa de Objetivos**
-> **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
 
 | tipo de objetivo | você |
 |---|---|
-| final| quer criar um mapa de forma fácil e rápida|
-| instrumental | quer utilizar uma ferramenta leve para criar um mapa de forma fácil e rápida |
-| instrumental direto | quer utilizar uma ferramenta leve, capaz de facilmente iterar modificações em mapas, para ter seu desenvolvimento mais fácil e rápido |
-| instrumental indireto | quer utilizar uma ferramenta leve, que força o usuário a colocar as paredes nas posições corretas, para que outros consigam iterar em seus mapas de forma corrta |
-
-| tipo de objetivo | você quer criar um mapa de forma rápida e fácil |
-|---|---|
-| final| |
-| instrumental | |
-| instrumental direto | |
-| instrumental indireto | |
-
+| Final | Você quer criar um mapa de forma fácil e rápida? |
+| Instrumental | Você quer utilizar uma ferramenta leve para criar um mapa de forma fácil e rápida? |
+| Instrumental direto | Você quer utilizar uma ferramenta leve, capaz de facilmente iterar modificações em mapas, para ter seu desenvolvimento mais fácil e rápido? |
+| Instrumental indireto | Você quer utilizar uma ferramenta leve, que força o usuário a colocar as paredes nas posições corretas, para que outros consigam iterar em seus mapas de forma correta? |
 # **Esquema Conceitual de Signos**
-
-> **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
 
 | Mapa (M) \- Mapa a ser modificado |  |  |
 | :---- | :---- | :---- |
 | **signo** | **origem** | **observações** |
 | Paredes | Domínio | Botões nos lugares onde podem ser colocadas paredes no mapa |
-| Barra De Zoom | Aplicação | Barra que define/representa o valor de zoom |
+| Barra de Zoom | Aplicação | Barra que define/representa o valor de zoom |
 | Salvar | Domínio | Botão que salva as paredes selecionadas até agora |
 | Exportar | Domínio | Botão que transforma as paredes selecionadas em paredes no mapa simulado, as exportando para um arquivo de arena |
 
 | Mapa (M) \- Mapa a ser modificado |  |  |  |
 | :---- | :---- | :---- | :---- |
 | **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
-| Paredes | Seleção Simples | Se pode apenas colocar paredes aonde se possui botões | Nenhuma selecionada |
+| Paredes | Seleção Simples | Se pode apenas colocar paredes onde se possui botões | Nenhuma selecionada |
 | Barra de zoom | Barra selecionável(?) | 20%-200% Zoom | 100% Zoom |
 
 | Mapa (M) \- Mapa a ser modificado |  |  |
 | :---- | :---- | :---- |
 | **signo** | **prevenção** | **recuperação** |
-| Paredes | PP: só se pode colocar paredes aonde se foi demarcado | - |
-| X | PA: Aparece um aviso caso não tenha salvo o arquivo antes de tentar fechar | RA: Pede confirmação se realmente não quer salvar as mudanças|
+| Paredes | PP: só se pode colocar paredes onde foi demarcado | - |
+| X | PA: Aparece um aviso caso não tenha salvo o arquivo antes de tentar fechar | RA: Pede confirmação se realmente não quer salvar as mudanças |
