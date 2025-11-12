@@ -44,8 +44,7 @@
   - O que o usuário pensa e sente: Empolgado. Pensa que as aulas que vai ter de robótica na faculdade serão tão, ou mais, informativas quanto as que teve online.      
   - Dores: Ter que esperar até ter essa matéria na faculdade para conseguir ferramentas da faculdade para o ensino.   
   - Ganhos: Interação com simulação de forma extremamente facilitada, criando ainda mais entusiasmo para aprender a fundo.  
- 
-    
+
 ## Persona Secundária
 * Ayrton Fernandes, 22 anos.
   - O que o usuário vê: Artigos científicos. Orientador. Testes de software.
@@ -53,13 +52,13 @@
   - O que o usuário diz e faz: Entende e busca melhorar cada vez mais o projeto. Atualiza seu robô com base na anatomia humana.
   - O que o usuário pensa e sente: Um robô que consegue subir e descer escadas sem cair será um avanço tecnológico. O avanço tecnológico pode tanto auxiliar quanto prejudicar.
   - Dores: Este projeto é muito exigente e conciliar com seus outros projetos é extramente difícil.
-  - Ganhos: Este projeto será inovador e de suma importância, podendo ajudar a muitos.MUDAR(relacionar com o projeto)
+  - Ganhos: Este projeto será inovador e de suma importância, podendo ajudar a muitos. Com o auxílio do desenvolvedor de arenas, poderei garantir que esteja em seu melhor estado.
     
 # Contexto de uso
   O produto possui o foco de ser utilizado por pessoas envolvidas com a instituição FEI de São Bernardo do Campo, pois a arena em que o produto foi baseada é a da sala k4-04, qualquer interessado pode utilizar o produto, mas para acessar a arena da k4-04 é necessária permissão.
   O produto deve guardar as informações relacionadas à arena e as alterações realizadas pelo usuário, como posições, ajustes, etc, para então o mesmo testar em um simulador próprio.
   O ambiente deve estar sempre pronto para alterações do usuário, tanto quanto criar, posicionar ou deletar as paredes que funcionarão como obstáculos na simulação.
-  COMPLEMENTAR(falar sobre a sala k404, relacionar, falar como o usuário vai executar o projeto)
+  A arena é baseada na arena real da K4-04, o projeto utiliza a versão simulada da arena, onde o mesmo seleciona botões para criar barreiras e então poder replicar na arena real.
 
 # Jornada do usuário
   1. Usuário acessa o executável do programa de criação de mapas.
@@ -71,6 +70,6 @@
   7. Programa escreve no arquivo a posição em que a parede será posicionada.
   8. Usuário repete o passo 5 até estar satisfeito com a arena produzida.
   9. Usuário seleciona finalizar.
-  10. Interface gera um arquivo ".sdf" com o mapa finalizado e um mapa para ser utilizado pelo robô. (falar a extensão do arquivo do mapa)
+  10. Interface gera um arquivo ".sdf" com o mapa finalizado e um mapa para ser utilizado pelo robô (pode ser um .yaml, .png ou .pgm).
   11. Usuário encerra a interface.
   12. Programa de criação de mapas é encerrado.
