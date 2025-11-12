@@ -5,16 +5,16 @@
 ## **Características da Plataforma**  
 | Característica | Descrição |
 | :---- | :---- |
-| Descrição do Software | Programa para Computador, com o objetivo de facilitar a construção de modelos 3D voltados para mapas a serem utilizados em simulações na robótica  |
-| Descrição do Hardware | Computador com Processador i5 ou equivalente, e de RAM de 8 GB DDR4 |
-| LISTA DE Capacidades da Plataforma (com explicação) | - Criação de mapas em formato sdf sem necessidade de ferramentas de modelagem 3D; O nosso programa não necessita de ferramentas de modelagem 3D, essas que por muitas vezes são pesadas e não muito intuitivas para um iniciante usar<br>- Capaz de ser utilizado em qualquer sistema operacional capaz de rodar scripts python; O nosso programa pode ser usado nos sistemas operacionais mais populares (Windows e MAC), além dos que são mais voltados para robótica (Linux).|
-| LISTA DE Restrições da Plataforma (com explicação) | - Requer<br>- Necessário   |
+| Descrição do Software | Programa para computador, com o objetivo de facilitar a construção de modelos 3D voltados para mapas a serem utilizados em simulações na robótica. |
+| Descrição do Hardware | Computador com processador i5 ou equivalente, e de RAM de 8 GB DDR4. |
+| LISTA DE Capacidades da Plataforma (com explicação) | - Criação de mapas em formato sdf sem necessidade de ferramentas de modelagem 3D. O nosso programa não necessita de ferramentas de modelagem 3D, essas que por muitas vezes são pesadas e não muito intuitivas para um iniciante usar.<br>- Capaz de ser utilizado em qualquer sistema operacional capaz de rodar scripts Python; o nosso programa pode ser usado nos sistemas operacionais mais populares (Windows e MAC), além dos que são mais voltados para robótica (Linux). |
+| LISTA DE Restrições da Plataforma (com explicação) | - Requer: Por ser um programa simples, não necessita de nenhum recurso exagerado. <br>- Necessário: Conhecimento de como usar e de como será utilizado.   |
 
 ## **Princípios Gerais do Projeto (INCREMENTAR TABELA)**     
 
 | Nome | Descrição | Link |
 | :---- | :---- | :---- |
-| Descrição do Contexto | .  |  |
+| Descrição do Contexto | O usuário utilizará o programa para produzier arenas para utilizar como modelo para montar arenas na arena física presente na instituição | [Link do contexto](https://github.com/mdarce765/ProjetoIHC/blob/main/Arquivos/Documentos/3_personas.md#contexto-de-uso) |
 | Lei Geral de Proteção de Dados (LGPD) \- Lei n.º 13.709/2018 | A LGPD é a legislação brasileira que regulamenta o tratamento de dados pessoais no Brasil. É importante para o projeto porque estabelece regras sobre como os dados dos usuários devem ser coletados, armazenados, processados e protegidos, garantindo sua privacidade e segurança. | [L13709](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) |
 | Lei n.º 10.098/2000 \- Lei da Acessibilidade |  Esta lei brasileira estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida. É importante para o projeto porque define diretrizes para tornar produtos e serviços, incluindo interfaces de usuário, acessíveis a todos os usuários, independentemente de suas habilidades físicas ou cognitivas. | [L10098](https://www.planalto.gov.br/ccivil_03/leis/l10098.htm) |
 | ABNT NBR ISO 9241 Ergonomia da interação humano-sistema |  Esta série de normas brasileiras, baseadas nas normas ISO 9241, fornece diretrizes e orientações para o design centrado no usuário de sistemas interativos, incluindo a concepção de interfaces de usuário. A parte 210 aborda o processo de design centrado no humano, enquanto a parte 11 fornece orientações específicas sobre usabilidade. Essas normas são importantes para o projeto porque estabelecem princípios e métodos para garantir que a interface do usuário atenda às necessidades e expectativas dos usuários. | [Modelo de editoração de Normas ABNT](https://www.inf.ufsc.br/~edla.ramos/ine5624/_Walter/Normas/Parte%2011/iso9241-11F2.pdf) |
@@ -34,4 +34,5 @@
 | Limites de zoom | 10% | Ajuda o usuário a não se perder |
 | Interface Responsiva | 15% | Ajuda o usuário a se sentir comfortável enquanto utiliza o programa |
 | **Total** | **100%** |  |
+
 
