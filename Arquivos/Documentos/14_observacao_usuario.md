@@ -1,4 +1,5 @@
 # **Método de Avaliação de Usabilidade por Observação do Usuário**   
+[Figma](https://www.figma.com/design/zapu0t1CIUgrUWoQN7g7c0/IHC-Figma?node-id=0-1&t=LNTDxBWcOJI5FYGm-1)
 ## Lista de tarefas que o usuário deve cumprir.
   - Tarefa 1: Exportar um mapa vazio
   - Tarefa 2: Exportar um mapa com pelo menos 3 paredes
@@ -38,3 +39,4 @@
 - Inicialmente houve leve confusão, exacerbada pelos erros iniciais (clicou fora do programa, acidentalmente clicou duplamente em paredes), mas entendeu o que aconteceu rapidamente, se recuperando sozinho do erro.
 ### Avaliação 2
 - O usuário acabou por se perder um pouco no início, mas durante o teste, o mesmo foi se acostumando e entendendo melhor a interface, se confundindo novamente no final.
+
