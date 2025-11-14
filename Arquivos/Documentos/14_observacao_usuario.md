@@ -29,14 +29,18 @@
 | **5** | **Sucesso Parcial** | **3** | **O usuário usou nomes não reconhecidos pelo Sistema Operacional, colocou nome igual a outro mapa e cancelou o processo sem querer** | **120 segundos** | **Confusão moderada** |
 
 ## **Respostas do Formulário do Usuário:**
-<img width="775" height="875" alt="image" src="https://github.com/user-attachments/assets/4bee075a-82a7-4bb9-9dea-68f40cc4877b" />
-<img width="780" height="689" alt="image" src="https://github.com/user-attachments/assets/30a6846e-d7c4-4eb0-9f0a-f9eea8a25d8f" />
-<img width="776" height="803" alt="image" src="https://github.com/user-attachments/assets/e171f409-9426-46da-9e45-b0030d88f1d3" />
-<img width="777" height="363" alt="image" src="https://github.com/user-attachments/assets/774afe5e-fe89-49b6-ad57-d074ba634d6c" />
+### Avaliação 1 
+<img width="703" height="798" alt="image" src="https://github.com/user-attachments/assets/5ff5b809-b557-4c8c-b3f5-97e9cc257cb0" />
+<img width="703" height="798" alt="image" src="https://github.com/user-attachments/assets/4633f2b2-5f68-44bd-a1b0-19ac92c265bc" />
+
+### Avaliação 2
+
+<img width="703" height="798" alt="image" src="https://github.com/user-attachments/assets/4894b768-3acc-40e3-a99a-a34bd0fc8816" />
 
 ## **Conclusão da avaliação por observação do usuário:**  
 ### Avaliação 1
 - Inicialmente houve leve confusão, exacerbada pelos erros iniciais (clicou fora do programa, acidentalmente clicou duplamente em paredes), mas entendeu o que aconteceu rapidamente, se recuperando sozinho do erro.
 ### Avaliação 2
 - O usuário acabou por se perder um pouco no início, mas durante o teste, o mesmo foi se acostumando e entendendo melhor a interface, se confundindo novamente no final.
+
 
