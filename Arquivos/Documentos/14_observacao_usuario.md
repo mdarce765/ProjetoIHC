@@ -22,11 +22,11 @@
 
 | Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| **1** | **Sucesso Parcial** | **2** | **Não completou a tarefa(1), (1) Compreensão** | **5 segundos** | **Confusão Moderada** |
-| **2** | **Sucesso** | **1** | **O usuário se perdeu um pouco ao procurar os arquivos** | **25 segundos** | **Confusão baixa** |
-| **3** | **Sucesso** | **0** | **Após os primeiros passos, o usuário se adaptou bem e não cometeu erros** | **20 segundos** | **Sem confusão** |
-| **4** | **Sucesso** | **0** | **O usuário se adaptou bem e não cometeu erros** | **100 segundos** | **Sem confusão** |
-| **5** | **Sucesso Parcial** | **3** | **O usuário usou nomes não reconhecidos pelo Sistema Operacional, colocou nome igual a outro mapa e cancelou o processo sem querer** | **120 segundos** | **Confusão moderada** |
+| **1** | **Sucesso Parcial** | **2** | **O usuário se perdeu com o uso da interface** | **5 segundos** | **Confusão Moderada** |
+| **2** | **Sucesso** | **1** | **-** | **14 segundos** | **Confusão baixa** |
+| **3** | **Sucesso** | **0** | **-** | **20 segundos** | **Sem confusão** |
+| **4** | **Sucesso** | **0** | **-** | **100 segundos** | **Sem confusão** |
+| **5** | **Sucesso** | **0** | **-** | **10 segundos** | **Sem confusão** |
 
 ## **Respostas do Formulário do Usuário:**
 ### Avaliação 1 - Lucas Antunes
@@ -44,7 +44,4 @@
 ### Avaliação 1
 - Inicialmente houve leve confusão, exacerbada pelos erros iniciais (clicou fora do programa, acidentalmente clicou duplamente em paredes), mas entendeu o que aconteceu rapidamente, se recuperando sozinho do erro.
 ### Avaliação 2
-- O usuário acabou por se perder um pouco no início, mas durante o teste, o mesmo foi se acostumando e entendendo melhor a interface, se confundindo novamente no final.
-
-
-
+- O usuário acabou por se perder um pouco no início, mas durante o teste, o mesmo foi se acostumando e entendendo melhor a interface. Ao final do teste, o usuário estava realizando todos os testes de outra maneira e com extrema facilidade.
