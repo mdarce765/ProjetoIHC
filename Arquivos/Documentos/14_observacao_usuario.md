@@ -7,11 +7,14 @@
   - Tarefa 4: Fazer um "desenho" com as paredes (Livre)
   - Tarefa 5: Exportar o mapa com o desenho
 
+## Fluxograma das tarefas:
+As tarefas estão em ordem crescente, iniciando na tarefa 1 e seguindo até a tarefa 5.
+
 ## Formulário de perfil
 [Formulário](https://docs.google.com/forms/d/1G1kYhiWmNvf_W6ldsMjZUcdRE6D7psHw0dPjd-0OMBI/edit)
 
 ## **Avaliação de cada Tarefa (para cada usuário)**
-
+### Avaliação 1
 | Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **1** | **Sucesso** | **1** | **Clicou Erroneamente** | **15 segundos** | **Confusão Baixa** |
@@ -20,6 +23,7 @@
 | **4** | **Sucesso** | **1** | **Clicou duas vezes acidentalmente** | **132 segundos** | **Sem Confusão** |
 | **5** | **Sucesso** | **0** |  | **5 segundos** | **Sem confusão** |
 
+### Avaliação 2
 | Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **1** | **Sucesso Parcial** | **2** | **O usuário se perdeu com o uso da interface** | **5 segundos** | **Confusão Moderada** |
@@ -29,11 +33,11 @@
 | **5** | **Sucesso** | **0** | **-** | **10 segundos** | **Sem confusão** |
 
 ## **Respostas do Formulário do Usuário:**
-### Avaliação 1 - Lucas Antunes
+### Avaliação 1
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/828790a4-4405-402d-934a-af7ccf851e9b" />  
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/4633f2b2-5f68-44bd-a1b0-19ac92c265bc" />  
 
-### Avaliação 2 - Rômulo Canavesso
+### Avaliação 2
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/a69f197f-efd4-40b8-b001-073e99dfba0f" />  
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/3bcc94c1-67bb-40db-9272-729236f6e8e7" />  
 <img width="700" height="164" alt="image" src="https://github.com/user-attachments/assets/ed61ee2e-ea90-48b5-9e57-c1cc0f2c899f" />  
@@ -44,4 +48,5 @@
 - Inicialmente houve leve confusão, exacerbada pelos erros iniciais (clicou fora do programa, acidentalmente clicou duplamente em paredes), mas entendeu o que aconteceu rapidamente, se recuperando sozinho do erro.
 ### Avaliação 2
 - O usuário acabou por se perder um pouco no início, mas durante o teste, o mesmo foi se acostumando e entendendo melhor a interface. Ao final do teste, o usuário estava realizando todos os testes de outra maneira e com extrema facilidade.
+
 
